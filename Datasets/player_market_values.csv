@@ -1,0 +1,1026 @@
+year,player_name,age,position,market_value_eur_m,is_peak_year
+2010,Lionel Messi,23,FW,12.0,0
+2011,Lionel Messi,24,FW,9.9,0
+2012,Lionel Messi,25,FW,11.3,0
+2013,Lionel Messi,26,FW,24.5,0
+2014,Lionel Messi,27,FW,53.8,0
+2015,Lionel Messi,28,FW,85.0,0
+2016,Lionel Messi,29,FW,138.3,0
+2017,Lionel Messi,30,FW,187.1,0
+2018,Lionel Messi,31,FW,227.1,1
+2019,Lionel Messi,32,FW,172.3,0
+2020,Lionel Messi,33,FW,114.7,0
+2021,Lionel Messi,34,FW,47.0,0
+2022,Lionel Messi,35,FW,15.8,0
+2023,Lionel Messi,36,FW,0.9,0
+2010,Cristiano Ronaldo,25,FW,33.5,0
+2011,Cristiano Ronaldo,26,FW,79.7,0
+2012,Cristiano Ronaldo,27,FW,107.1,0
+2013,Cristiano Ronaldo,28,FW,125.4,0
+2014,Cristiano Ronaldo,29,FW,154.7,1
+2015,Cristiano Ronaldo,30,FW,125.2,0
+2016,Cristiano Ronaldo,31,FW,84.1,0
+2017,Cristiano Ronaldo,32,FW,27.6,0
+2018,Cristiano Ronaldo,33,FW,9.5,0
+2019,Cristiano Ronaldo,34,FW,6.7,0
+2020,Cristiano Ronaldo,35,FW,6.0,0
+2010,Neymar,18,FW,8.7,0
+2011,Neymar,19,FW,9.1,0
+2012,Neymar,20,FW,9.7,0
+2013,Neymar,21,FW,21.4,0
+2014,Neymar,22,FW,45.1,0
+2015,Neymar,23,FW,92.5,0
+2016,Neymar,24,FW,132.9,0
+2017,Neymar,25,FW,140.6,0
+2018,Neymar,26,FW,163.2,1
+2019,Neymar,27,FW,171.8,0
+2020,Neymar,28,FW,95.4,0
+2021,Neymar,29,FW,37.8,0
+2022,Neymar,30,FW,12.3,0
+2023,Neymar,31,FW,9.0,0
+2024,Neymar,32,FW,9.5,0
+2025,Neymar,33,FW,8.1,0
+2026,Neymar,34,FW,8.4,0
+2010,Luis Suarez,23,FW,12.7,0
+2011,Luis Suarez,24,FW,26.2,0
+2012,Luis Suarez,25,FW,49.4,0
+2013,Luis Suarez,26,FW,64.9,0
+2014,Luis Suarez,27,FW,94.7,0
+2015,Luis Suarez,28,FW,109.1,1
+2016,Luis Suarez,29,FW,88.0,0
+2017,Luis Suarez,30,FW,51.9,0
+2018,Luis Suarez,31,FW,22.1,0
+2019,Luis Suarez,32,FW,6.5,0
+2020,Luis Suarez,33,FW,5.0,0
+2021,Luis Suarez,34,FW,5.5,0
+2022,Luis Suarez,35,FW,5.0,0
+2010,Eden Hazard,19,AM,7.8,0
+2011,Eden Hazard,20,AM,7.8,0
+2012,Eden Hazard,21,AM,8.1,0
+2013,Eden Hazard,22,AM,20.9,0
+2014,Eden Hazard,23,AM,42.8,0
+2015,Eden Hazard,24,AM,65.8,0
+2016,Eden Hazard,25,AM,100.0,0
+2017,Eden Hazard,26,AM,137.2,0
+2018,Eden Hazard,27,AM,144.7,1
+2019,Eden Hazard,28,AM,115.9,0
+2020,Eden Hazard,29,AM,74.3,0
+2021,Eden Hazard,30,AM,32.2,0
+2022,Eden Hazard,31,AM,9.9,0
+2023,Eden Hazard,32,AM,7.3,0
+2024,Eden Hazard,33,AM,8.2,0
+2025,Eden Hazard,34,AM,7.6,0
+2026,Eden Hazard,35,AM,9.1,0
+2010,Sergio Aguero,22,FW,24.0,0
+2011,Sergio Aguero,23,FW,41.5,0
+2012,Sergio Aguero,24,FW,64.5,0
+2013,Sergio Aguero,25,FW,84.5,0
+2014,Sergio Aguero,26,FW,93.2,1
+2015,Sergio Aguero,27,FW,90.0,0
+2016,Sergio Aguero,28,FW,43.2,0
+2017,Sergio Aguero,29,FW,21.5,0
+2018,Sergio Aguero,30,FW,6.4,0
+2019,Sergio Aguero,31,FW,4.0,0
+2020,Sergio Aguero,32,FW,4.8,0
+2021,Sergio Aguero,33,FW,5.0,0
+2022,Sergio Aguero,34,FW,4.2,0
+2023,Sergio Aguero,35,FW,4.5,0
+2010,Robert Lewandowski,22,FW,3.9,0
+2011,Robert Lewandowski,23,FW,3.7,0
+2012,Robert Lewandowski,24,FW,4.1,0
+2013,Robert Lewandowski,25,FW,3.8,0
+2014,Robert Lewandowski,26,FW,3.9,0
+2015,Robert Lewandowski,27,FW,10.6,0
+2016,Robert Lewandowski,28,FW,19.2,0
+2017,Robert Lewandowski,29,FW,35.1,0
+2018,Robert Lewandowski,30,FW,58.0,0
+2019,Robert Lewandowski,31,FW,79.5,0
+2020,Robert Lewandowski,32,FW,88.3,1
+2021,Robert Lewandowski,33,FW,64.2,0
+2022,Robert Lewandowski,34,FW,44.3,0
+2023,Robert Lewandowski,35,FW,16.8,0
+2024,Robert Lewandowski,36,FW,1.9,0
+2010,Sergio Ramos,24,CB,12.5,0
+2011,Sergio Ramos,25,CB,27.7,0
+2012,Sergio Ramos,26,CB,37.6,0
+2013,Sergio Ramos,27,CB,42.4,0
+2014,Sergio Ramos,28,CB,48.0,1
+2015,Sergio Ramos,29,CB,45.1,0
+2016,Sergio Ramos,30,CB,27.9,0
+2017,Sergio Ramos,31,CB,11.1,0
+2018,Sergio Ramos,32,CB,3.5,0
+2019,Sergio Ramos,33,CB,2.7,0
+2020,Sergio Ramos,34,CB,2.5,0
+2021,Sergio Ramos,35,CB,2.3,0
+2010,Toni Kroos,20,CM,4.1,0
+2011,Toni Kroos,21,CM,4.2,0
+2012,Toni Kroos,22,CM,9.4,0
+2013,Toni Kroos,23,CM,20.8,0
+2014,Toni Kroos,24,CM,35.4,0
+2015,Toni Kroos,25,CM,51.9,0
+2016,Toni Kroos,26,CM,75.6,0
+2017,Toni Kroos,27,CM,81.2,1
+2018,Toni Kroos,28,CM,71.5,0
+2019,Toni Kroos,29,CM,42.9,0
+2020,Toni Kroos,30,CM,18.2,0
+2021,Toni Kroos,31,CM,5.8,0
+2022,Toni Kroos,32,CM,4.0,0
+2023,Toni Kroos,33,CM,4.1,0
+2024,Toni Kroos,34,CM,3.8,0
+2025,Toni Kroos,35,CM,4.1,0
+2010,Luka Modric,25,CM,3.6,0
+2011,Luka Modric,26,CM,9.4,0
+2012,Luka Modric,27,CM,18.8,0
+2013,Luka Modric,28,CM,34.0,0
+2014,Luka Modric,29,CM,49.1,0
+2015,Luka Modric,30,CM,76.4,0
+2016,Luka Modric,31,CM,81.7,1
+2017,Luka Modric,32,CM,66.3,0
+2018,Luka Modric,33,CM,45.1,0
+2019,Luka Modric,34,CM,16.5,0
+2020,Luka Modric,35,CM,6.6,0
+2010,Karim Benzema,22,FW,20.9,0
+2011,Karim Benzema,23,FW,43.6,0
+2012,Karim Benzema,24,FW,58.4,0
+2013,Karim Benzema,25,FW,75.2,0
+2014,Karim Benzema,26,FW,74.4,1
+2015,Karim Benzema,27,FW,70.0,0
+2016,Karim Benzema,28,FW,40.6,0
+2017,Karim Benzema,29,FW,17.0,0
+2018,Karim Benzema,30,FW,5.2,0
+2019,Karim Benzema,31,FW,5.0,0
+2020,Karim Benzema,32,FW,3.9,0
+2021,Karim Benzema,33,FW,3.6,0
+2022,Karim Benzema,34,FW,3.8,0
+2023,Karim Benzema,35,FW,4.0,0
+2010,Mesut Ozil,22,AM,20.0,0
+2011,Mesut Ozil,23,AM,38.8,0
+2012,Mesut Ozil,24,AM,53.4,0
+2013,Mesut Ozil,25,AM,70.0,0
+2014,Mesut Ozil,26,AM,74.3,1
+2015,Mesut Ozil,27,AM,61.6,0
+2016,Mesut Ozil,28,AM,44.7,0
+2017,Mesut Ozil,29,AM,18.9,0
+2018,Mesut Ozil,30,AM,6.0,0
+2019,Mesut Ozil,31,AM,4.0,0
+2020,Mesut Ozil,32,AM,4.3,0
+2021,Mesut Ozil,33,AM,3.5,0
+2022,Mesut Ozil,34,AM,4.3,0
+2023,Mesut Ozil,35,AM,4.1,0
+2015,Kylian Mbappé,16,FW,8.0,0
+2016,Kylian Mbappé,17,FW,8.5,0
+2017,Kylian Mbappé,18,FW,23.4,0
+2018,Kylian Mbappé,19,FW,50.1,0
+2019,Kylian Mbappé,20,FW,76.2,0
+2020,Kylian Mbappé,21,FW,119.2,0
+2021,Kylian Mbappé,22,FW,156.3,0
+2022,Kylian Mbappé,23,FW,174.9,1
+2023,Kylian Mbappé,24,FW,136.6,0
+2024,Kylian Mbappé,25,FW,82.5,0
+2025,Kylian Mbappé,26,FW,37.6,0
+2026,Kylian Mbappé,27,FW,12.6,0
+2016,Erling Haaland,16,FW,8.2,0
+2017,Erling Haaland,17,FW,8.9,0
+2018,Erling Haaland,18,FW,9.8,0
+2019,Erling Haaland,19,FW,20.2,0
+2020,Erling Haaland,20,FW,46.7,0
+2021,Erling Haaland,21,FW,92.3,0
+2022,Erling Haaland,22,FW,124.7,0
+2023,Erling Haaland,23,FW,158.2,0
+2024,Erling Haaland,24,FW,197.6,1
+2025,Erling Haaland,25,FW,148.7,0
+2026,Erling Haaland,26,FW,101.0,0
+2016,Vinicius Jr,16,LW,10.3,0
+2017,Vinicius Jr,17,LW,9.7,0
+2018,Vinicius Jr,18,LW,10.4,0
+2019,Vinicius Jr,19,LW,25.5,0
+2020,Vinicius Jr,20,LW,57.2,0
+2021,Vinicius Jr,21,LW,90.4,0
+2022,Vinicius Jr,22,LW,143.8,0
+2023,Vinicius Jr,23,LW,183.1,0
+2024,Vinicius Jr,24,LW,211.6,1
+2025,Vinicius Jr,25,LW,156.0,0
+2026,Vinicius Jr,26,LW,111.4,0
+2019,Jude Bellingham,16,CM,23.3,0
+2020,Jude Bellingham,17,CM,42.7,0
+2021,Jude Bellingham,18,CM,93.7,0
+2022,Jude Bellingham,19,CM,154.2,0
+2023,Jude Bellingham,20,CM,179.4,0
+2024,Jude Bellingham,21,CM,201.8,1
+2025,Jude Bellingham,22,CM,153.4,0
+2026,Jude Bellingham,23,CM,80.9,0
+2010,Mohamed Salah,18,FW,6.5,0
+2011,Mohamed Salah,19,FW,7.7,0
+2012,Mohamed Salah,20,FW,7.2,0
+2013,Mohamed Salah,21,FW,17.4,0
+2014,Mohamed Salah,22,FW,39.3,0
+2015,Mohamed Salah,23,FW,74.4,0
+2016,Mohamed Salah,24,FW,95.7,0
+2017,Mohamed Salah,25,FW,133.1,0
+2018,Mohamed Salah,26,FW,169.3,1
+2019,Mohamed Salah,27,FW,116.5,0
+2020,Mohamed Salah,28,FW,82.6,0
+2021,Mohamed Salah,29,FW,32.2,0
+2022,Mohamed Salah,30,FW,10.9,0
+2023,Mohamed Salah,31,FW,8.2,0
+2024,Mohamed Salah,32,FW,8.0,0
+2025,Mohamed Salah,33,FW,8.1,0
+2026,Mohamed Salah,34,FW,6.8,0
+2010,Sadio Mane,18,FW,7.1,0
+2011,Sadio Mane,19,FW,6.1,0
+2012,Sadio Mane,20,FW,6.6,0
+2013,Sadio Mane,21,FW,6.6,0
+2014,Sadio Mane,22,FW,16.8,0
+2015,Sadio Mane,23,FW,35.2,0
+2016,Sadio Mane,24,FW,57.4,0
+2017,Sadio Mane,25,FW,83.6,0
+2018,Sadio Mane,26,FW,128.3,0
+2019,Sadio Mane,27,FW,131.9,1
+2020,Sadio Mane,28,FW,120.6,0
+2021,Sadio Mane,29,FW,66.5,0
+2022,Sadio Mane,30,FW,25.9,0
+2023,Sadio Mane,31,FW,9.8,0
+2024,Sadio Mane,32,FW,6.3,0
+2025,Sadio Mane,33,FW,6.7,0
+2026,Sadio Mane,34,FW,6.2,0
+2010,Kevin De Bruyne,19,CM,8.6,0
+2011,Kevin De Bruyne,20,CM,7.0,0
+2012,Kevin De Bruyne,21,CM,7.3,0
+2013,Kevin De Bruyne,22,CM,7.6,0
+2014,Kevin De Bruyne,23,CM,17.1,0
+2015,Kevin De Bruyne,24,CM,40.6,0
+2016,Kevin De Bruyne,25,CM,80.6,0
+2017,Kevin De Bruyne,26,CM,103.3,0
+2018,Kevin De Bruyne,27,CM,142.4,0
+2019,Kevin De Bruyne,28,CM,120.4,1
+2020,Kevin De Bruyne,29,CM,126.6,0
+2021,Kevin De Bruyne,30,CM,75.1,0
+2022,Kevin De Bruyne,31,CM,31.3,0
+2023,Kevin De Bruyne,32,CM,11.4,0
+2024,Kevin De Bruyne,33,CM,7.3,0
+2025,Kevin De Bruyne,34,CM,7.4,0
+2026,Kevin De Bruyne,35,CM,7.3,0
+2010,Harry Kane,17,FW,6.4,0
+2011,Harry Kane,18,FW,6.9,0
+2012,Harry Kane,19,FW,8.1,0
+2013,Harry Kane,20,FW,6.3,0
+2014,Harry Kane,21,FW,17.6,0
+2015,Harry Kane,22,FW,38.3,0
+2016,Harry Kane,23,FW,81.5,0
+2017,Harry Kane,24,FW,114.3,0
+2018,Harry Kane,25,FW,132.0,0
+2019,Harry Kane,26,FW,166.5,1
+2020,Harry Kane,27,FW,119.7,0
+2021,Harry Kane,28,FW,83.5,0
+2022,Harry Kane,29,FW,30.0,0
+2023,Harry Kane,30,FW,11.4,0
+2024,Harry Kane,31,FW,7.3,0
+2025,Harry Kane,32,FW,6.9,0
+2026,Harry Kane,33,FW,7.4,0
+2010,Bruno Fernandes,16,AM,4.6,0
+2011,Bruno Fernandes,17,AM,4.3,0
+2012,Bruno Fernandes,18,AM,4.7,0
+2013,Bruno Fernandes,19,AM,4.3,0
+2014,Bruno Fernandes,20,AM,4.7,0
+2015,Bruno Fernandes,21,AM,4.7,0
+2016,Bruno Fernandes,22,AM,11.2,0
+2017,Bruno Fernandes,23,AM,22.9,0
+2018,Bruno Fernandes,24,AM,43.0,0
+2019,Bruno Fernandes,25,AM,67.4,0
+2020,Bruno Fernandes,26,AM,97.7,0
+2021,Bruno Fernandes,27,AM,97.0,1
+2022,Bruno Fernandes,28,AM,82.4,0
+2023,Bruno Fernandes,29,AM,59.2,0
+2024,Bruno Fernandes,30,AM,20.9,0
+2025,Bruno Fernandes,31,AM,6.5,0
+2026,Bruno Fernandes,32,AM,4.8,0
+2016,Phil Foden,16,AM,6.0,0
+2017,Phil Foden,17,AM,6.3,0
+2018,Phil Foden,18,AM,6.2,0
+2019,Phil Foden,19,AM,17.0,0
+2020,Phil Foden,20,AM,33.8,0
+2021,Phil Foden,21,AM,62.1,0
+2022,Phil Foden,22,AM,101.6,0
+2023,Phil Foden,23,AM,128.2,0
+2024,Phil Foden,24,AM,128.3,1
+2025,Phil Foden,25,AM,104.3,0
+2026,Phil Foden,26,AM,73.1,0
+2017,Bukayo Saka,16,RW,6.9,0
+2018,Bukayo Saka,17,RW,5.7,0
+2019,Bukayo Saka,18,RW,15.8,0
+2020,Bukayo Saka,19,RW,34.7,0
+2021,Bukayo Saka,20,RW,65.4,0
+2022,Bukayo Saka,21,RW,100.2,0
+2023,Bukayo Saka,22,RW,122.4,0
+2024,Bukayo Saka,23,RW,136.2,1
+2025,Bukayo Saka,24,RW,110.6,0
+2026,Bukayo Saka,25,RW,63.2,0
+2019,Florian Wirtz,16,AM,15.9,0
+2020,Florian Wirtz,17,AM,34.3,0
+2021,Florian Wirtz,18,AM,61.2,0
+2022,Florian Wirtz,19,AM,80.1,0
+2023,Florian Wirtz,20,AM,115.9,0
+2024,Florian Wirtz,21,AM,130.6,1
+2025,Florian Wirtz,22,AM,107.6,0
+2026,Florian Wirtz,23,AM,65.4,0
+2018,Pedri,16,CM,5.2,0
+2019,Pedri,17,CM,11.4,0
+2020,Pedri,18,CM,23.1,0
+2021,Pedri,19,CM,45.9,0
+2022,Pedri,20,CM,76.2,0
+2023,Pedri,21,CM,105.3,0
+2024,Pedri,22,CM,106.5,1
+2025,Pedri,23,CM,75.3,0
+2026,Pedri,24,CM,50.4,0
+2020,Gavi,16,CM,43.4,0
+2021,Gavi,17,CM,65.4,0
+2022,Gavi,18,CM,86.5,0
+2023,Gavi,19,CM,83.6,1
+2024,Gavi,20,CM,76.6,0
+2025,Gavi,21,CM,47.8,0
+2026,Gavi,22,CM,21.5,0
+2014,Federico Valverde,16,CM,4.7,0
+2015,Federico Valverde,17,CM,4.9,0
+2016,Federico Valverde,18,CM,4.0,0
+2017,Federico Valverde,19,CM,4.8,0
+2018,Federico Valverde,20,CM,4.8,0
+2019,Federico Valverde,21,CM,11.5,0
+2020,Federico Valverde,22,CM,26.7,0
+2021,Federico Valverde,23,CM,47.0,0
+2022,Federico Valverde,24,CM,59.8,0
+2023,Federico Valverde,25,CM,93.6,0
+2024,Federico Valverde,26,CM,92.8,1
+2025,Federico Valverde,27,CM,88.0,0
+2026,Federico Valverde,28,CM,46.3,0
+2018,Eduardo Camavinga,16,CM,4.5,0
+2019,Eduardo Camavinga,17,CM,11.0,0
+2020,Eduardo Camavinga,18,CM,24.3,0
+2021,Eduardo Camavinga,19,CM,42.9,0
+2022,Eduardo Camavinga,20,CM,63.2,0
+2023,Eduardo Camavinga,21,CM,73.2,0
+2024,Eduardo Camavinga,22,CM,80.0,1
+2025,Eduardo Camavinga,23,CM,72.7,0
+2026,Eduardo Camavinga,24,CM,46.2,0
+2016,Aurelien Tchouameni,16,DM,4.3,0
+2017,Aurelien Tchouameni,17,DM,4.7,0
+2018,Aurelien Tchouameni,18,DM,4.4,0
+2019,Aurelien Tchouameni,19,DM,10.4,0
+2020,Aurelien Tchouameni,20,DM,23.2,0
+2021,Aurelien Tchouameni,21,DM,43.3,0
+2022,Aurelien Tchouameni,22,DM,66.2,0
+2023,Aurelien Tchouameni,23,DM,96.2,0
+2024,Aurelien Tchouameni,24,DM,85.3,1
+2025,Aurelien Tchouameni,25,DM,75.7,0
+2026,Aurelien Tchouameni,26,DM,47.8,0
+2012,Rodri,16,DM,6.5,0
+2013,Rodri,17,DM,6.2,0
+2014,Rodri,18,DM,5.7,0
+2015,Rodri,19,DM,6.2,0
+2016,Rodri,20,DM,6.0,0
+2017,Rodri,21,DM,5.7,0
+2018,Rodri,22,DM,6.1,0
+2019,Rodri,23,DM,14.9,0
+2020,Rodri,24,DM,35.9,0
+2021,Rodri,25,DM,64.4,0
+2022,Rodri,26,DM,86.7,0
+2023,Rodri,27,DM,117.1,0
+2024,Rodri,28,DM,112.0,1
+2025,Rodri,29,DM,105.8,0
+2026,Rodri,30,DM,68.9,0
+2015,Declan Rice,16,DM,5.9,0
+2016,Declan Rice,17,DM,5.2,0
+2017,Declan Rice,18,DM,6.0,0
+2018,Declan Rice,19,DM,4.9,0
+2019,Declan Rice,20,DM,12.4,0
+2020,Declan Rice,21,DM,30.7,0
+2021,Declan Rice,22,DM,59.4,0
+2022,Declan Rice,23,DM,82.0,0
+2023,Declan Rice,24,DM,100.9,0
+2024,Declan Rice,25,DM,92.3,1
+2025,Declan Rice,26,DM,79.2,0
+2026,Declan Rice,27,DM,57.1,0
+2017,Moises Caicedo,16,DM,3.9,0
+2018,Moises Caicedo,17,DM,9.1,0
+2019,Moises Caicedo,18,DM,21.2,0
+2020,Moises Caicedo,19,DM,38.1,0
+2021,Moises Caicedo,20,DM,61.8,0
+2022,Moises Caicedo,21,DM,74.4,0
+2023,Moises Caicedo,22,DM,88.3,1
+2024,Moises Caicedo,23,DM,67.8,0
+2025,Moises Caicedo,24,DM,40.7,0
+2026,Moises Caicedo,25,DM,19.4,0
+2017,William Saliba,16,CB,3.7,0
+2018,William Saliba,17,CB,5.0,0
+2019,William Saliba,18,CB,10.3,0
+2020,William Saliba,19,CB,21.7,0
+2021,William Saliba,20,CB,39.4,0
+2022,William Saliba,21,CB,66.6,0
+2023,William Saliba,22,CB,78.4,0
+2024,William Saliba,23,CB,70.4,1
+2025,William Saliba,24,CB,75.8,0
+2026,William Saliba,25,CB,40.0,0
+2015,Ronald Araujo,16,CB,3.8,0
+2016,Ronald Araujo,17,CB,3.4,0
+2017,Ronald Araujo,18,CB,3.9,0
+2018,Ronald Araujo,19,CB,3.6,0
+2019,Ronald Araujo,20,CB,9.4,0
+2020,Ronald Araujo,21,CB,19.3,0
+2021,Ronald Araujo,22,CB,41.3,0
+2022,Ronald Araujo,23,CB,63.0,0
+2023,Ronald Araujo,24,CB,69.3,0
+2024,Ronald Araujo,25,CB,75.4,1
+2025,Ronald Araujo,26,CB,61.6,0
+2026,Ronald Araujo,27,CB,42.1,0
+2023,Pau Cubarsi,16,CB,62.7,0
+2024,Pau Cubarsi,17,CB,67.7,1
+2025,Pau Cubarsi,18,CB,64.1,0
+2026,Pau Cubarsi,19,CB,34.4,0
+2010,Antonio Rudiger,17,CB,3.0,0
+2011,Antonio Rudiger,18,CB,2.6,0
+2012,Antonio Rudiger,19,CB,3.2,0
+2013,Antonio Rudiger,20,CB,3.5,0
+2014,Antonio Rudiger,21,CB,3.2,0
+2015,Antonio Rudiger,22,CB,3.4,0
+2016,Antonio Rudiger,23,CB,2.8,0
+2017,Antonio Rudiger,24,CB,7.6,0
+2018,Antonio Rudiger,25,CB,14.7,0
+2019,Antonio Rudiger,26,CB,27.8,0
+2020,Antonio Rudiger,27,CB,45.7,0
+2021,Antonio Rudiger,28,CB,55.7,0
+2022,Antonio Rudiger,29,CB,53.6,1
+2023,Antonio Rudiger,30,CB,45.7,0
+2024,Antonio Rudiger,31,CB,27.6,0
+2025,Antonio Rudiger,32,CB,13.9,0
+2026,Antonio Rudiger,33,CB,4.9,0
+2010,Virgil van Dijk,19,CB,5.6,0
+2011,Virgil van Dijk,20,CB,4.3,0
+2012,Virgil van Dijk,21,CB,5.6,0
+2013,Virgil van Dijk,22,CB,5.4,0
+2014,Virgil van Dijk,23,CB,11.0,0
+2015,Virgil van Dijk,24,CB,25.7,0
+2016,Virgil van Dijk,25,CB,51.6,0
+2017,Virgil van Dijk,26,CB,74.9,0
+2018,Virgil van Dijk,27,CB,82.9,0
+2019,Virgil van Dijk,28,CB,105.0,1
+2020,Virgil van Dijk,29,CB,71.3,0
+2021,Virgil van Dijk,30,CB,50.4,0
+2022,Virgil van Dijk,31,CB,24.4,0
+2023,Virgil van Dijk,32,CB,7.0,0
+2024,Virgil van Dijk,33,CB,4.8,0
+2025,Virgil van Dijk,34,CB,5.4,0
+2026,Virgil van Dijk,35,CB,5.4,0
+2010,Marquinhos,16,CB,4.2,0
+2011,Marquinhos,17,CB,4.0,0
+2012,Marquinhos,18,CB,4.1,0
+2013,Marquinhos,19,CB,4.0,0
+2014,Marquinhos,20,CB,3.8,0
+2015,Marquinhos,21,CB,9.4,0
+2016,Marquinhos,22,CB,19.4,0
+2017,Marquinhos,23,CB,32.2,0
+2018,Marquinhos,24,CB,49.8,0
+2019,Marquinhos,25,CB,67.5,0
+2020,Marquinhos,26,CB,76.5,1
+2021,Marquinhos,27,CB,71.2,0
+2022,Marquinhos,28,CB,38.4,0
+2023,Marquinhos,29,CB,18.1,0
+2024,Marquinhos,30,CB,5.7,0
+2025,Marquinhos,31,CB,3.7,0
+2026,Marquinhos,32,CB,3.9,0
+2015,Achraf Hakimi,16,RB,3.9,0
+2016,Achraf Hakimi,17,RB,4.4,0
+2017,Achraf Hakimi,18,RB,4.2,0
+2018,Achraf Hakimi,19,RB,3.6,0
+2019,Achraf Hakimi,20,RB,10.1,0
+2020,Achraf Hakimi,21,RB,24.1,0
+2021,Achraf Hakimi,22,RB,37.2,0
+2022,Achraf Hakimi,23,RB,59.4,0
+2023,Achraf Hakimi,24,RB,76.9,0
+2024,Achraf Hakimi,25,RB,73.6,1
+2025,Achraf Hakimi,26,RB,70.5,0
+2026,Achraf Hakimi,27,RB,36.7,0
+2010,Joao Cancelo,16,RB,3.3,0
+2011,Joao Cancelo,17,RB,3.8,0
+2012,Joao Cancelo,18,RB,3.6,0
+2013,Joao Cancelo,19,RB,3.4,0
+2014,Joao Cancelo,20,RB,3.6,0
+2015,Joao Cancelo,21,RB,3.5,0
+2016,Joao Cancelo,22,RB,8.7,0
+2017,Joao Cancelo,23,RB,19.4,0
+2018,Joao Cancelo,24,RB,31.2,0
+2019,Joao Cancelo,25,RB,50.3,0
+2020,Joao Cancelo,26,RB,62.8,0
+2021,Joao Cancelo,27,RB,61.7,1
+2022,Joao Cancelo,28,RB,55.0,0
+2023,Joao Cancelo,29,RB,40.7,0
+2024,Joao Cancelo,30,RB,16.1,0
+2025,Joao Cancelo,31,RB,4.4,0
+2026,Joao Cancelo,32,RB,3.1,0
+2015,Trent Alexander-Arnold,16,RB,11.1,0
+2016,Trent Alexander-Arnold,17,RB,26.9,0
+2017,Trent Alexander-Arnold,18,RB,41.9,0
+2018,Trent Alexander-Arnold,19,RB,71.6,0
+2019,Trent Alexander-Arnold,20,RB,85.2,0
+2020,Trent Alexander-Arnold,21,RB,93.5,1
+2021,Trent Alexander-Arnold,22,RB,68.5,0
+2022,Trent Alexander-Arnold,23,RB,49.8,0
+2023,Trent Alexander-Arnold,24,RB,19.6,0
+2024,Trent Alexander-Arnold,25,RB,6.7,0
+2025,Trent Alexander-Arnold,26,RB,4.2,0
+2026,Trent Alexander-Arnold,27,RB,4.6,0
+2014,Theo Hernandez,16,LB,3.3,0
+2015,Theo Hernandez,17,LB,3.2,0
+2016,Theo Hernandez,18,LB,3.4,0
+2017,Theo Hernandez,19,LB,7.9,0
+2018,Theo Hernandez,20,LB,16.3,0
+2019,Theo Hernandez,21,LB,34.9,0
+2020,Theo Hernandez,22,LB,50.7,0
+2021,Theo Hernandez,23,LB,56.3,0
+2022,Theo Hernandez,24,LB,68.0,1
+2023,Theo Hernandez,25,LB,51.8,0
+2024,Theo Hernandez,26,LB,30.4,0
+2025,Theo Hernandez,27,LB,15.8,0
+2026,Theo Hernandez,28,LB,3.9,0
+2010,Andy Robertson,16,LB,3.8,0
+2011,Andy Robertson,17,LB,3.4,0
+2012,Andy Robertson,18,LB,3.4,0
+2013,Andy Robertson,19,LB,3.6,0
+2014,Andy Robertson,20,LB,3.7,0
+2015,Andy Robertson,21,LB,8.2,0
+2016,Andy Robertson,22,LB,19.5,0
+2017,Andy Robertson,23,LB,33.4,0
+2018,Andy Robertson,24,LB,45.4,0
+2019,Andy Robertson,25,LB,63.5,0
+2020,Andy Robertson,26,LB,78.2,1
+2021,Andy Robertson,27,LB,67.8,0
+2022,Andy Robertson,28,LB,38.1,0
+2023,Andy Robertson,29,LB,14.2,0
+2024,Andy Robertson,30,LB,5.1,0
+2025,Andy Robertson,31,LB,3.7,0
+2026,Andy Robertson,32,LB,3.7,0
+2017,Alphonso Davies,16,LB,4.0,0
+2018,Alphonso Davies,17,LB,3.9,0
+2019,Alphonso Davies,18,LB,9.3,0
+2020,Alphonso Davies,19,LB,18.8,0
+2021,Alphonso Davies,20,LB,30.4,0
+2022,Alphonso Davies,21,LB,55.2,0
+2023,Alphonso Davies,22,LB,70.0,0
+2024,Alphonso Davies,23,LB,78.4,1
+2025,Alphonso Davies,24,LB,57.0,0
+2026,Alphonso Davies,25,LB,40.5,0
+2010,Thibaut Courtois,18,GK,2.9,0
+2011,Thibaut Courtois,19,GK,2.5,0
+2012,Thibaut Courtois,20,GK,2.5,0
+2013,Thibaut Courtois,21,GK,6.4,0
+2014,Thibaut Courtois,22,GK,15.5,0
+2015,Thibaut Courtois,23,GK,21.8,0
+2016,Thibaut Courtois,24,GK,36.4,0
+2017,Thibaut Courtois,25,GK,43.2,0
+2018,Thibaut Courtois,26,GK,47.9,1
+2019,Thibaut Courtois,27,GK,42.2,0
+2020,Thibaut Courtois,28,GK,28.6,0
+2021,Thibaut Courtois,29,GK,12.9,0
+2022,Thibaut Courtois,30,GK,3.6,0
+2023,Thibaut Courtois,31,GK,2.4,0
+2024,Thibaut Courtois,32,GK,3.1,0
+2025,Thibaut Courtois,33,GK,2.4,0
+2026,Thibaut Courtois,34,GK,2.4,0
+2010,Alisson Becker,17,GK,3.0,0
+2011,Alisson Becker,18,GK,3.9,0
+2012,Alisson Becker,19,GK,3.8,0
+2013,Alisson Becker,20,GK,4.2,0
+2014,Alisson Becker,21,GK,7.8,0
+2015,Alisson Becker,22,GK,20.7,0
+2016,Alisson Becker,23,GK,33.3,0
+2017,Alisson Becker,24,GK,53.5,0
+2018,Alisson Becker,25,GK,56.4,0
+2019,Alisson Becker,26,GK,78.7,1
+2020,Alisson Becker,27,GK,63.1,0
+2021,Alisson Becker,28,GK,35.8,0
+2022,Alisson Becker,29,GK,16.4,0
+2023,Alisson Becker,30,GK,4.6,0
+2024,Alisson Becker,31,GK,3.3,0
+2025,Alisson Becker,32,GK,3.4,0
+2026,Alisson Becker,33,GK,3.0,0
+2010,Ederson,16,GK,2.7,0
+2011,Ederson,17,GK,2.8,0
+2012,Ederson,18,GK,2.4,0
+2013,Ederson,19,GK,6.4,0
+2014,Ederson,20,GK,12.9,0
+2015,Ederson,21,GK,24.2,0
+2016,Ederson,22,GK,34.1,0
+2017,Ederson,23,GK,42.9,0
+2018,Ederson,24,GK,54.4,1
+2019,Ederson,25,GK,42.1,0
+2020,Ederson,26,GK,30.2,0
+2021,Ederson,27,GK,11.2,0
+2022,Ederson,28,GK,3.2,0
+2023,Ederson,29,GK,2.8,0
+2024,Ederson,30,GK,2.6,0
+2025,Ederson,31,GK,2.6,0
+2026,Ederson,32,GK,2.7,0
+2015,Gianluigi Donnarumma,16,GK,3.1,0
+2016,Gianluigi Donnarumma,17,GK,8.0,0
+2017,Gianluigi Donnarumma,18,GK,16.9,0
+2018,Gianluigi Donnarumma,19,GK,27.7,0
+2019,Gianluigi Donnarumma,20,GK,45.6,0
+2020,Gianluigi Donnarumma,21,GK,66.6,0
+2021,Gianluigi Donnarumma,22,GK,66.2,1
+2022,Gianluigi Donnarumma,23,GK,49.4,0
+2023,Gianluigi Donnarumma,24,GK,29.5,0
+2024,Gianluigi Donnarumma,25,GK,16.6,0
+2025,Gianluigi Donnarumma,26,GK,4.5,0
+2026,Gianluigi Donnarumma,27,GK,3.1,0
+2012,Andre Onana,16,GK,2.4,0
+2013,Andre Onana,17,GK,2.2,0
+2014,Andre Onana,18,GK,2.8,0
+2015,Andre Onana,19,GK,2.4,0
+2016,Andre Onana,20,GK,2.8,0
+2017,Andre Onana,21,GK,2.5,0
+2018,Andre Onana,22,GK,7.0,0
+2019,Andre Onana,23,GK,13.5,0
+2020,Andre Onana,24,GK,25.3,0
+2021,Andre Onana,25,GK,37.9,0
+2022,Andre Onana,26,GK,48.4,0
+2023,Andre Onana,27,GK,51.4,1
+2024,Andre Onana,28,GK,41.5,0
+2025,Andre Onana,29,GK,29.9,0
+2026,Andre Onana,30,GK,10.4,0
+2023,Lamine Yamal,16,RW,138.1,0
+2024,Lamine Yamal,17,RW,150.2,1
+2025,Lamine Yamal,18,RW,131.1,0
+2026,Lamine Yamal,19,RW,74.4,0
+2022,Endrick,16,FW,51.4,0
+2023,Endrick,17,FW,63.5,0
+2024,Endrick,18,FW,61.7,1
+2025,Endrick,19,FW,59.3,0
+2026,Endrick,20,FW,32.9,0
+2019,Jamal Musiala,16,AM,14.1,0
+2020,Jamal Musiala,17,AM,34.6,0
+2021,Jamal Musiala,18,AM,63.9,0
+2022,Jamal Musiala,19,AM,97.2,0
+2023,Jamal Musiala,20,AM,125.2,0
+2024,Jamal Musiala,21,AM,111.4,1
+2025,Jamal Musiala,22,AM,98.7,0
+2026,Jamal Musiala,23,AM,78.2,0
+2021,Désiré Doué,16,AM,30.4,0
+2022,Désiré Doué,17,AM,52.7,0
+2023,Désiré Doué,18,AM,61.0,0
+2024,Désiré Doué,19,AM,70.4,1
+2025,Désiré Doué,20,AM,56.3,0
+2026,Désiré Doué,21,AM,37.6,0
+2022,Warren Zaire-Emery,16,CM,54.3,0
+2023,Warren Zaire-Emery,17,CM,66.6,0
+2024,Warren Zaire-Emery,18,CM,69.0,1
+2025,Warren Zaire-Emery,19,CM,64.9,0
+2026,Warren Zaire-Emery,20,CM,34.9,0
+2021,Arda Guler,16,AM,24.4,0
+2022,Arda Guler,17,AM,44.2,0
+2023,Arda Guler,18,AM,51.2,0
+2024,Arda Guler,19,AM,53.0,1
+2025,Arda Guler,20,AM,42.0,0
+2026,Arda Guler,21,AM,22.0,0
+2021,Kobbie Mainoo,16,CM,25.5,0
+2022,Kobbie Mainoo,17,CM,47.6,0
+2023,Kobbie Mainoo,18,CM,51.8,0
+2024,Kobbie Mainoo,19,CM,56.7,1
+2025,Kobbie Mainoo,20,CM,50.1,0
+2026,Kobbie Mainoo,21,CM,28.3,0
+2018,Cole Palmer,16,AM,6.3,0
+2019,Cole Palmer,17,AM,17.4,0
+2020,Cole Palmer,18,AM,34.4,0
+2021,Cole Palmer,19,AM,62.3,0
+2022,Cole Palmer,20,AM,94.2,0
+2023,Cole Palmer,21,AM,134.3,0
+2024,Cole Palmer,22,AM,137.4,1
+2025,Cole Palmer,23,AM,116.8,0
+2026,Cole Palmer,24,AM,75.4,0
+2020,Alejandro Garnacho,16,LW,16.9,0
+2021,Alejandro Garnacho,17,LW,30.0,0
+2022,Alejandro Garnacho,18,LW,48.4,0
+2023,Alejandro Garnacho,19,LW,63.1,0
+2024,Alejandro Garnacho,20,LW,64.2,1
+2025,Alejandro Garnacho,21,LW,55.4,0
+2026,Alejandro Garnacho,22,LW,31.3,0
+2017,Rodrygo,16,RW,5.1,0
+2018,Rodrygo,17,RW,5.8,0
+2019,Rodrygo,18,RW,14.2,0
+2020,Rodrygo,19,RW,30.1,0
+2021,Rodrygo,20,RW,53.1,0
+2022,Rodrygo,21,RW,79.1,0
+2023,Rodrygo,22,RW,107.0,0
+2024,Rodrygo,23,RW,118.5,1
+2025,Rodrygo,24,RW,100.2,0
+2026,Rodrygo,25,RW,56.0,0
+2018,Nico Williams,16,LW,4.5,0
+2019,Nico Williams,17,LW,10.1,0
+2020,Nico Williams,18,LW,22.2,0
+2021,Nico Williams,19,LW,38.7,0
+2022,Nico Williams,20,LW,58.5,0
+2023,Nico Williams,21,LW,69.4,0
+2024,Nico Williams,22,LW,84.6,1
+2025,Nico Williams,23,LW,85.0,0
+2026,Nico Williams,24,LW,39.9,0
+2019,Fermin Lopez,16,AM,6.3,0
+2020,Fermin Lopez,17,AM,12.7,0
+2021,Fermin Lopez,18,AM,22.7,0
+2022,Fermin Lopez,19,AM,40.5,0
+2023,Fermin Lopez,20,AM,43.6,0
+2024,Fermin Lopez,21,AM,48.1,1
+2025,Fermin Lopez,22,AM,37.3,0
+2026,Fermin Lopez,23,AM,24.2,0
+2021,Dean Huijsen,16,CB,20.6,0
+2022,Dean Huijsen,17,CB,37.7,0
+2023,Dean Huijsen,18,CB,57.6,0
+2024,Dean Huijsen,19,CB,48.6,1
+2025,Dean Huijsen,20,CB,37.0,0
+2026,Dean Huijsen,21,CB,27.6,0
+2020,Joao Neves,16,CM,18.7,0
+2021,Joao Neves,17,CM,39.3,0
+2022,Joao Neves,18,CM,52.5,0
+2023,Joao Neves,19,CM,65.6,0
+2024,Joao Neves,20,CM,73.9,1
+2025,Joao Neves,21,CM,67.5,0
+2026,Joao Neves,22,CM,37.8,0
+2019,Xavi Simons,16,AM,9.0,0
+2020,Xavi Simons,17,AM,19.5,0
+2021,Xavi Simons,18,AM,32.0,0
+2022,Xavi Simons,19,AM,55.5,0
+2023,Xavi Simons,20,AM,59.8,0
+2024,Xavi Simons,21,AM,72.4,1
+2025,Xavi Simons,22,AM,67.5,0
+2026,Xavi Simons,23,AM,39.5,0
+2021,Mathys Tel,16,FW,24.8,0
+2022,Mathys Tel,17,FW,35.6,0
+2023,Mathys Tel,18,FW,50.5,0
+2024,Mathys Tel,19,FW,53.8,1
+2025,Mathys Tel,20,FW,43.9,0
+2026,Mathys Tel,21,FW,27.6,0
+2023,Estevão Willian,16,RW,58.6,0
+2024,Estevão Willian,17,RW,57.9,1
+2025,Estevão Willian,18,RW,45.6,0
+2026,Estevão Willian,19,RW,31.9,0
+2023,Franco Mastantuono,16,AM,52.9,0
+2024,Franco Mastantuono,17,AM,60.0,1
+2025,Franco Mastantuono,18,AM,43.2,0
+2026,Franco Mastantuono,19,AM,26.3,0
+2010,Bernardo Silva,16,AM,4.1,0
+2011,Bernardo Silva,17,AM,4.0,0
+2012,Bernardo Silva,18,AM,3.4,0
+2013,Bernardo Silva,19,AM,4.1,0
+2014,Bernardo Silva,20,AM,8.6,0
+2015,Bernardo Silva,21,AM,19.6,0
+2016,Bernardo Silva,22,AM,42.1,0
+2017,Bernardo Silva,23,AM,66.3,0
+2018,Bernardo Silva,24,AM,66.8,0
+2019,Bernardo Silva,25,AM,77.9,1
+2020,Bernardo Silva,26,AM,67.9,0
+2021,Bernardo Silva,27,AM,47.4,0
+2022,Bernardo Silva,28,AM,17.2,0
+2023,Bernardo Silva,29,AM,5.4,0
+2024,Bernardo Silva,30,AM,4.5,0
+2025,Bernardo Silva,31,AM,3.9,0
+2026,Bernardo Silva,32,AM,4.2,0
+2013,Marcus Rashford,16,FW,4.4,0
+2014,Marcus Rashford,17,FW,4.9,0
+2015,Marcus Rashford,18,FW,10.9,0
+2016,Marcus Rashford,19,FW,24.2,0
+2017,Marcus Rashford,20,FW,50.5,0
+2018,Marcus Rashford,21,FW,71.4,0
+2019,Marcus Rashford,22,FW,89.7,0
+2020,Marcus Rashford,23,FW,94.2,1
+2021,Marcus Rashford,24,FW,83.2,0
+2022,Marcus Rashford,25,FW,52.6,0
+2023,Marcus Rashford,26,FW,24.1,0
+2024,Marcus Rashford,27,FW,5.6,0
+2025,Marcus Rashford,28,FW,4.7,0
+2026,Marcus Rashford,29,FW,5.1,0
+2017,Bukayo Saka,16,RW,6.4,0
+2018,Bukayo Saka,17,RW,16.7,0
+2019,Bukayo Saka,18,RW,35.0,0
+2020,Bukayo Saka,19,RW,59.9,0
+2021,Bukayo Saka,20,RW,89.3,0
+2022,Bukayo Saka,21,RW,117.3,0
+2023,Bukayo Saka,22,RW,142.5,1
+2024,Bukayo Saka,23,RW,103.8,0
+2025,Bukayo Saka,24,RW,66.4,0
+2026,Bukayo Saka,25,RW,29.4,0
+2014,Martin Odegaard,16,AM,6.2,0
+2015,Martin Odegaard,17,AM,5.4,0
+2016,Martin Odegaard,18,AM,5.9,0
+2017,Martin Odegaard,19,AM,6.1,0
+2018,Martin Odegaard,20,AM,13.6,0
+2019,Martin Odegaard,21,AM,28.5,0
+2020,Martin Odegaard,22,AM,50.6,0
+2021,Martin Odegaard,23,AM,77.2,0
+2022,Martin Odegaard,24,AM,108.4,0
+2023,Martin Odegaard,25,AM,112.1,1
+2024,Martin Odegaard,26,AM,94.9,0
+2025,Martin Odegaard,27,AM,51.6,0
+2026,Martin Odegaard,28,AM,22.7,0
+2017,Gabriel Martinelli,16,LW,4.5,0
+2018,Gabriel Martinelli,17,LW,9.2,0
+2019,Gabriel Martinelli,18,LW,18.6,0
+2020,Gabriel Martinelli,19,LW,39.7,0
+2021,Gabriel Martinelli,20,LW,55.0,0
+2022,Gabriel Martinelli,21,LW,72.3,0
+2023,Gabriel Martinelli,22,LW,74.2,1
+2024,Gabriel Martinelli,23,LW,61.9,0
+2025,Gabriel Martinelli,24,LW,38.0,0
+2026,Gabriel Martinelli,25,LW,15.0,0
+2010,Heung-min Son,18,FW,4.5,0
+2011,Heung-min Son,19,FW,4.6,0
+2012,Heung-min Son,20,FW,5.2,0
+2013,Heung-min Son,21,FW,4.5,0
+2014,Heung-min Son,22,FW,3.7,0
+2015,Heung-min Son,23,FW,11.1,0
+2016,Heung-min Son,24,FW,29.5,0
+2017,Heung-min Son,25,FW,45.6,0
+2018,Heung-min Son,26,FW,60.4,0
+2019,Heung-min Son,27,FW,86.8,0
+2020,Heung-min Son,28,FW,84.8,1
+2021,Heung-min Son,29,FW,68.4,0
+2022,Heung-min Son,30,FW,44.9,0
+2023,Heung-min Son,31,FW,20.2,0
+2024,Heung-min Son,32,FW,5.4,0
+2025,Heung-min Son,33,FW,4.1,0
+2026,Heung-min Son,34,FW,4.5,0
+2013,Lautaro Martinez,16,FW,5.3,0
+2014,Lautaro Martinez,17,FW,5.7,0
+2015,Lautaro Martinez,18,FW,5.0,0
+2016,Lautaro Martinez,19,FW,5.8,0
+2017,Lautaro Martinez,20,FW,5.0,0
+2018,Lautaro Martinez,21,FW,6.3,0
+2019,Lautaro Martinez,22,FW,11.9,0
+2020,Lautaro Martinez,23,FW,26.6,0
+2021,Lautaro Martinez,24,FW,53.7,0
+2022,Lautaro Martinez,25,FW,90.0,0
+2023,Lautaro Martinez,26,FW,103.8,0
+2024,Lautaro Martinez,27,FW,115.1,1
+2025,Lautaro Martinez,28,FW,93.2,0
+2026,Lautaro Martinez,29,FW,52.0,0
+2017,Khvicha Kvaratskhelia,16,LW,4.3,0
+2018,Khvicha Kvaratskhelia,17,LW,4.1,0
+2019,Khvicha Kvaratskhelia,18,LW,10.1,0
+2020,Khvicha Kvaratskhelia,19,LW,24.5,0
+2021,Khvicha Kvaratskhelia,20,LW,38.9,0
+2022,Khvicha Kvaratskhelia,21,LW,66.2,0
+2023,Khvicha Kvaratskhelia,22,LW,74.6,0
+2024,Khvicha Kvaratskhelia,23,LW,92.2,1
+2025,Khvicha Kvaratskhelia,24,LW,73.3,0
+2026,Khvicha Kvaratskhelia,25,LW,51.7,0
+2014,Victor Osimhen,16,FW,6.7,0
+2015,Victor Osimhen,17,FW,7.2,0
+2016,Victor Osimhen,18,FW,6.1,0
+2017,Victor Osimhen,19,FW,6.5,0
+2018,Victor Osimhen,20,FW,15.0,0
+2019,Victor Osimhen,21,FW,33.2,0
+2020,Victor Osimhen,22,FW,60.1,0
+2021,Victor Osimhen,23,FW,87.9,0
+2022,Victor Osimhen,24,FW,108.5,0
+2023,Victor Osimhen,25,FW,116.1,1
+2024,Victor Osimhen,26,FW,91.3,0
+2025,Victor Osimhen,27,FW,61.3,0
+2026,Victor Osimhen,28,FW,30.5,0
+2010,Romelu Lukaku,17,FW,4.4,0
+2011,Romelu Lukaku,18,FW,4.5,0
+2012,Romelu Lukaku,19,FW,5.8,0
+2013,Romelu Lukaku,20,FW,4.8,0
+2014,Romelu Lukaku,21,FW,12.8,0
+2015,Romelu Lukaku,22,FW,27.7,0
+2016,Romelu Lukaku,23,FW,49.8,0
+2017,Romelu Lukaku,24,FW,63.4,0
+2018,Romelu Lukaku,25,FW,90.3,0
+2019,Romelu Lukaku,26,FW,87.9,1
+2020,Romelu Lukaku,27,FW,102.9,0
+2021,Romelu Lukaku,28,FW,45.2,0
+2022,Romelu Lukaku,29,FW,20.5,0
+2023,Romelu Lukaku,30,FW,6.4,0
+2024,Romelu Lukaku,31,FW,4.4,0
+2025,Romelu Lukaku,32,FW,5.6,0
+2026,Romelu Lukaku,33,FW,6.1,0
+2016,Dusan Vlahovic,16,FW,4.1,0
+2017,Dusan Vlahovic,17,FW,9.5,0
+2018,Dusan Vlahovic,18,FW,18.7,0
+2019,Dusan Vlahovic,19,FW,39.4,0
+2020,Dusan Vlahovic,20,FW,59.4,0
+2021,Dusan Vlahovic,21,FW,74.2,0
+2022,Dusan Vlahovic,22,FW,86.5,1
+2023,Dusan Vlahovic,23,FW,74.3,0
+2024,Dusan Vlahovic,24,FW,44.8,0
+2025,Dusan Vlahovic,25,FW,18.5,0
+2026,Dusan Vlahovic,26,FW,5.4,0
+2018,Rasmus Hojlund,16,FW,2.6,0
+2019,Rasmus Hojlund,17,FW,6.2,0
+2020,Rasmus Hojlund,18,FW,14.2,0
+2021,Rasmus Hojlund,19,FW,25.2,0
+2022,Rasmus Hojlund,20,FW,32.0,0
+2023,Rasmus Hojlund,21,FW,41.0,0
+2024,Rasmus Hojlund,22,FW,47.1,1
+2025,Rasmus Hojlund,23,FW,38.9,0
+2026,Rasmus Hojlund,24,FW,27.3,0
+2010,Antoine Griezmann,19,AM,6.7,0
+2011,Antoine Griezmann,20,AM,7.1,0
+2012,Antoine Griezmann,21,AM,6.7,0
+2013,Antoine Griezmann,22,AM,16.5,0
+2014,Antoine Griezmann,23,AM,37.7,0
+2015,Antoine Griezmann,24,AM,63.8,0
+2016,Antoine Griezmann,25,AM,93.7,0
+2017,Antoine Griezmann,26,AM,134.6,0
+2018,Antoine Griezmann,27,AM,131.2,1
+2019,Antoine Griezmann,28,AM,107.4,0
+2020,Antoine Griezmann,29,AM,62.4,0
+2021,Antoine Griezmann,30,AM,30.7,0
+2022,Antoine Griezmann,31,AM,10.0,0
+2023,Antoine Griezmann,32,AM,6.5,0
+2024,Antoine Griezmann,33,AM,7.2,0
+2025,Antoine Griezmann,34,AM,5.6,0
+2026,Antoine Griezmann,35,AM,6.5,0
+2011,Joshua Kimmich,16,CM,4.5,0
+2012,Joshua Kimmich,17,CM,4.2,0
+2013,Joshua Kimmich,18,CM,5.4,0
+2014,Joshua Kimmich,19,CM,4.5,0
+2015,Joshua Kimmich,20,CM,10.8,0
+2016,Joshua Kimmich,21,CM,23.8,0
+2017,Joshua Kimmich,22,CM,36.2,0
+2018,Joshua Kimmich,23,CM,60.7,0
+2019,Joshua Kimmich,24,CM,89.6,0
+2020,Joshua Kimmich,25,CM,85.6,1
+2021,Joshua Kimmich,26,CM,71.3,0
+2022,Joshua Kimmich,27,CM,51.3,0
+2023,Joshua Kimmich,28,CM,22.4,0
+2024,Joshua Kimmich,29,CM,6.5,0
+2025,Joshua Kimmich,30,CM,4.3,0
+2026,Joshua Kimmich,31,CM,4.4,0
+2011,Leon Goretzka,16,CM,3.3,0
+2012,Leon Goretzka,17,CM,3.2,0
+2013,Leon Goretzka,18,CM,3.2,0
+2014,Leon Goretzka,19,CM,3.3,0
+2015,Leon Goretzka,20,CM,3.2,0
+2016,Leon Goretzka,21,CM,7.7,0
+2017,Leon Goretzka,22,CM,18.8,0
+2018,Leon Goretzka,23,CM,33.7,0
+2019,Leon Goretzka,24,CM,57.5,0
+2020,Leon Goretzka,25,CM,61.1,0
+2021,Leon Goretzka,26,CM,71.7,1
+2022,Leon Goretzka,27,CM,60.8,0
+2023,Leon Goretzka,28,CM,35.2,0
+2024,Leon Goretzka,29,CM,16.6,0
+2025,Leon Goretzka,30,CM,5.2,0
+2026,Leon Goretzka,31,CM,3.6,0
+2011,Niklas Sule,16,CB,2.4,0
+2012,Niklas Sule,17,CB,2.4,0
+2013,Niklas Sule,18,CB,5.6,0
+2014,Niklas Sule,19,CB,12.4,0
+2015,Niklas Sule,20,CB,22.5,0
+2016,Niklas Sule,21,CB,32.7,0
+2017,Niklas Sule,22,CB,47.7,0
+2018,Niklas Sule,23,CB,55.0,1
+2019,Niklas Sule,24,CB,39.4,0
+2020,Niklas Sule,25,CB,26.3,0
+2021,Niklas Sule,26,CB,10.3,0
+2022,Niklas Sule,27,CB,3.4,0
+2023,Niklas Sule,28,CB,2.4,0
+2024,Niklas Sule,29,CB,2.6,0
+2025,Niklas Sule,30,CB,2.4,0
+2026,Niklas Sule,31,CB,2.7,0
+2015,Matthijs de Ligt,16,CB,3.7,0
+2016,Matthijs de Ligt,17,CB,8.9,0
+2017,Matthijs de Ligt,18,CB,17.9,0
+2018,Matthijs de Ligt,19,CB,36.2,0
+2019,Matthijs de Ligt,20,CB,57.7,0
+2020,Matthijs de Ligt,21,CB,70.5,0
+2021,Matthijs de Ligt,22,CB,89.7,1
+2022,Matthijs de Ligt,23,CB,71.2,0
+2023,Matthijs de Ligt,24,CB,37.6,0
+2024,Matthijs de Ligt,25,CB,16.3,0
+2025,Matthijs de Ligt,26,CB,5.4,0
+2026,Matthijs de Ligt,27,CB,3.5,0
+2010,Manuel Neuer,24,GK,11.6,0
+2011,Manuel Neuer,25,GK,19.4,0
+2012,Manuel Neuer,26,GK,29.3,0
+2013,Manuel Neuer,27,GK,38.9,0
+2014,Manuel Neuer,28,GK,45.9,1
+2015,Manuel Neuer,29,GK,34.3,0
+2016,Manuel Neuer,30,GK,20.4,0
+2017,Manuel Neuer,31,GK,10.1,0
+2018,Manuel Neuer,32,GK,3.0,0
+2019,Manuel Neuer,33,GK,1.9,0
+2020,Manuel Neuer,34,GK,2.0,0
+2021,Manuel Neuer,35,GK,2.0,0
+2010,Memphis Depay,16,FW,2.4,0
+2011,Memphis Depay,17,FW,2.6,0
+2012,Memphis Depay,18,FW,2.5,0
+2013,Memphis Depay,19,FW,6.3,0
+2014,Memphis Depay,20,FW,12.0,0
+2015,Memphis Depay,21,FW,22.8,0
+2016,Memphis Depay,22,FW,37.5,0
+2017,Memphis Depay,23,FW,48.2,0
+2018,Memphis Depay,24,FW,47.2,1
+2019,Memphis Depay,25,FW,42.9,0
+2020,Memphis Depay,26,FW,30.6,0
+2021,Memphis Depay,27,FW,11.1,0
+2022,Memphis Depay,28,FW,3.3,0
+2023,Memphis Depay,29,FW,2.5,0
+2024,Memphis Depay,30,FW,2.5,0
+2025,Memphis Depay,31,FW,2.5,0
+2026,Memphis Depay,32,FW,2.5,0

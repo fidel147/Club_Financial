@@ -1,0 +1,58 @@
+transfer_id,date,year,season,player_name,position,age_at_transfer,from_club,to_club,fee_eur_m,is_free_transfer,is_loan,is_extension
+R001,2009-07-01,2009,2009-2010,Cristiano Ronaldo,FW,24,Manchester United,Real Madrid,94.0,0,0,0
+R002,2013-09-02,2013,2013-2014,Gareth Bale,LW,24,Tottenham,Real Madrid,100.0,0,0,0
+R003,2014-07-15,2014,2014-2015,Luis Suarez,FW,27,Liverpool,FC Barcelona,82.0,0,0,0
+R004,2014-08-31,2014,2014-2015,James Rodriguez,AM,23,Monaco,Real Madrid,80.0,0,0,0
+R005,2016-07-04,2016,2016-2017,Gonzalo Higuain,FW,28,Napoli,Juventus,90.0,0,0,0
+R006,2016-08-09,2016,2016-2017,Paul Pogba,CM,23,Juventus,Manchester United,105.0,0,0,0
+R007,2017-08-03,2017,2017-2018,Neymar,FW,25,FC Barcelona,Paris Saint-Germain,222.0,0,0,0
+R008,2017-08-31,2017,2017-2018,Ousmane Dembele,FW,20,Borussia Dortmund,FC Barcelona,135.0,0,0,0
+R009,2017-08-31,2017,2017-2018,Kylian Mbappé,FW,18,Monaco,Paris Saint-Germain,180.0,0,0,0
+R010,2018-01-06,2018,2017-2018,Philippe Coutinho,AM,25,Liverpool,FC Barcelona,135.0,0,0,0
+R011,2018-07-10,2018,2018-2019,Cristiano Ronaldo,FW,33,Real Madrid,Juventus,117.0,0,0,0
+R012,2018-08-08,2018,2018-2019,Kepa Arrizabalaga,GK,23,Athletic Bilbao,Chelsea,80.0,0,0,0
+R013,2019-07-01,2019,2019-2020,Joao Felix,FW,19,Benfica,Atletico Madrid,126.0,0,0,0
+R014,2019-07-17,2019,2019-2020,Antoine Griezmann,FW,28,Atletico Madrid,FC Barcelona,120.0,0,0,0
+R015,2019-07-25,2019,2019-2020,Matthijs de Ligt,CB,19,Ajax,Juventus,85.5,0,0,0
+R017,2019-08-08,2019,2019-2020,Nicolas Pepe,RW,24,Lille,Arsenal,80.0,0,0,0
+R016,2019-08-08,2019,2019-2020,Harry Maguire,CB,26,Leicester,Manchester United,87.0,0,0,0
+R018,2020-09-16,2020,2020-2021,Kai Havertz,AM,21,Bayer Leverkusen,Chelsea,80.0,0,0,0
+R019,2021-08-10,2021,2021-2022,Romelu Lukaku,FW,28,Inter Milan,Chelsea,115.0,0,0,0
+R020,2021-08-10,2021,2021-2022,Jadon Sancho,RW,21,Borussia Dortmund,Manchester United,85.0,0,0,0
+R021,2021-08-31,2021,2021-2022,Cristiano Ronaldo,FW,36,Juventus,Manchester United,15.0,0,0,0
+R022,2022-06-15,2022,2021-2022,Erling Haaland,FW,21,Borussia Dortmund,Manchester City,60.0,0,0,0
+R023,2022-07-02,2022,2022-2023,Darwin Nunez,FW,23,Benfica,Liverpool,100.0,0,0,0
+R024,2022-08-04,2022,2022-2023,Antony,RW,22,Ajax,Manchester United,95.0,0,0,0
+R025,2022-12-30,2022,2022-2023,Mykhailo Mudryk,LW,22,Shakhtar,Chelsea,70.0,0,0,0
+R026,2023-01-23,2023,2022-2023,Enzo Fernandez,CM,22,Benfica,Chelsea,121.0,0,0,0
+R034,2023-06-06,2023,2022-2023,Karim Benzema,FW,35,Real Madrid,Al-Ittihad,0.0,1,0,0
+R027,2023-06-07,2023,2022-2023,Jude Bellingham,CM,19,Borussia Dortmund,Real Madrid,103.0,0,0,0
+R035,2023-06-08,2023,2022-2023,N'Golo Kante,DM,32,Chelsea,Al-Ittihad,0.0,1,0,0
+R028,2023-06-14,2023,2022-2023,Declan Rice,DM,24,West Ham,Arsenal,116.6,0,0,0
+R036,2023-07-04,2023,2023-2024,Riyad Mahrez,RW,32,Manchester City,Al-Ahli,30.0,0,0,0
+R037,2023-07-08,2023,2023-2024,Ruben Neves,CM,26,Wolves,Al-Hilal,47.0,0,0,0
+R029,2023-07-08,2023,2023-2024,Sandro Tonali,CM,23,AC Milan,Newcastle United,70.0,0,0,0
+R030,2023-07-15,2023,2023-2024,Christopher Nkunku,FW,25,RB Leipzig,Chelsea,60.0,0,0,0
+R038,2023-07-25,2023,2023-2024,Aymeric Laporte,CB,29,Manchester City,Al-Nassr,27.5,0,0,0
+R031,2023-08-12,2023,2023-2024,Moises Caicedo,DM,21,Brighton,Chelsea,133.0,0,0,0
+R039,2023-08-15,2023,2023-2024,Neymar,FW,31,Paris Saint-Germain,Al-Hilal,90.0,0,0,0
+R032,2023-08-19,2023,2023-2024,Romeo Lavia,DM,19,Southampton,Chelsea,62.0,0,0,0
+R033,2023-09-01,2023,2023-2024,Harry Kane,FW,30,Tottenham,Bayern Munich,100.0,0,0,0
+R040,2024-01-23,2024,2023-2024,Ronald Araujo extension,CB,24,FC Barcelona,FC Barcelona,0.0,1,0,1
+R041,2024-07-01,2024,2024-2025,Kylian Mbappé,FW,25,Paris Saint-Germain,Real Madrid,0.0,1,0,0
+R042,2024-07-15,2024,2024-2025,Joao Neves,CM,19,Benfica,Paris Saint-Germain,60.0,0,0,0
+R043,2024-07-19,2024,2024-2025,Riccardo Calafiori,LB,22,Bologna,Arsenal,42.0,0,0,0
+R044,2024-07-26,2024,2024-2025,Federico Chiesa,RW,26,Juventus,Liverpool,12.0,0,0,0
+R045,2024-08-15,2024,2024-2025,Dominic Solanke,FW,26,Bournemouth,Tottenham,65.0,0,0,0
+R046,2024-08-22,2024,2024-2025,Joshua Kimmich extension,CM,29,Bayern Munich,Bayern Munich,0.0,1,0,1
+R047,2024-08-30,2024,2024-2025,Manuel Ugarte,DM,23,Paris Saint-Germain,Manchester United,50.5,0,0,0
+R048,2025-01-05,2025,2024-2025,Mathys Tel,FW,19,Bayern Munich,Tottenham,50.0,0,0,0
+R049,2025-02-01,2025,2024-2025,Marcus Rashford loan,FW,27,Manchester United,Aston Villa,0.0,1,1,0
+R050,2025-06-15,2025,2024-2025,Florian Wirtz,AM,22,Bayer Leverkusen,Liverpool,130.0,0,0,0
+R051,2025-07-01,2025,2025-2026,Lamine Yamal extension,RW,17,FC Barcelona,FC Barcelona,0.0,1,0,1
+R052,2025-07-15,2025,2025-2026,Jamal Musiala extension,AM,22,Bayern Munich,Bayern Munich,0.0,1,0,1
+R053,2025-07-20,2025,2025-2026,Cole Palmer extension,AM,23,Chelsea,Chelsea,0.0,1,0,1
+R054,2025-08-10,2025,2025-2026,Viktor Gyokeres,FW,27,Sporting CP,Arsenal,85.0,0,0,0
+R055,2025-08-20,2025,2025-2026,Hugo Ekitike,FW,23,Eintracht Frankfurt,Liverpool,95.0,0,0,0
+R056,2026-01-15,2026,2025-2026,Désiré Doué,AM,20,Paris Saint-Germain,Real Madrid,90.0,0,0,0
+R057,2026-02-01,2026,2025-2026,Pedri extension,CM,23,FC Barcelona,FC Barcelona,0.0,1,0,1

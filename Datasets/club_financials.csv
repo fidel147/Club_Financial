@@ -1,0 +1,885 @@
+year,club_name,league,country,stadium_capacity,revenue_eur_m,wage_bill_eur_m,wages_to_revenue_pct,net_transfer_spend_eur_m,operating_profit_eur_m
+2010,Manchester City,Premier_League,ENG,55000,154.4,76.9,49.8,40.9,-2.0
+2011,Manchester City,Premier_League,ENG,55000,221.2,100.1,45.2,65.0,0.8
+2012,Manchester City,Premier_League,ENG,55000,278.1,148.5,53.4,22.8,37.2
+2013,Manchester City,Premier_League,ENG,55000,330.4,196.3,59.4,93.1,-41.5
+2014,Manchester City,Premier_League,ENG,55000,401.8,243.6,60.6,64.6,-6.9
+2015,Manchester City,Premier_League,ENG,55000,451.2,256.5,56.8,29.8,52.2
+2016,Manchester City,Premier_League,ENG,55000,497.1,272.2,54.8,119.1,-18.4
+2017,Manchester City,Premier_League,ENG,55000,495.2,302.6,61.1,135.3,-66.6
+2018,Manchester City,Premier_League,ENG,55000,519.9,276.8,53.2,86.7,26.5
+2019,Manchester City,Premier_League,ENG,55000,553.8,316.0,57.1,122.3,-22.9
+2020,Manchester City,Premier_League,ENG,55000,515.7,273.2,53.0,67.8,45.8
+2021,Manchester City,Premier_League,ENG,55000,583.6,338.9,58.1,56.8,41.9
+2022,Manchester City,Premier_League,ENG,55000,728.5,370.1,50.8,77.8,98.6
+2023,Manchester City,Premier_League,ENG,55000,800.0,469.7,58.7,206.5,-76.3
+2024,Manchester City,Premier_League,ENG,55000,809.1,467.0,57.7,208.8,-69.0
+2025,Manchester City,Premier_League,ENG,55000,885.1,492.0,55.6,108.1,63.8
+2026,Manchester City,Premier_League,ENG,55000,944.4,530.0,56.1,94.4,83.9
+2010,Manchester United,Premier_League,ENG,74000,350.7,198.0,56.4,75.8,-10.8
+2011,Manchester United,Premier_League,ENG,74000,367.4,196.2,53.4,60.5,18.8
+2012,Manchester United,Premier_League,ENG,74000,409.7,219.7,53.6,32.2,55.4
+2013,Manchester United,Premier_League,ENG,74000,439.8,263.2,59.8,84.1,-17.5
+2014,Manchester United,Premier_League,ENG,74000,480.3,268.1,55.8,90.5,1.7
+2015,Manchester United,Premier_League,ENG,74000,530.2,312.6,59.0,30.6,54.4
+2016,Manchester United,Premier_League,ENG,74000,523.9,310.6,59.3,79.7,2.6
+2017,Manchester United,Premier_League,ENG,74000,523.0,258.0,49.3,33.8,100.5
+2018,Manchester United,Premier_League,ENG,74000,563.9,314.2,55.7,121.5,-12.7
+2019,Manchester United,Premier_League,ENG,74000,560.6,312.8,55.8,121.1,-13.5
+2020,Manchester United,Premier_League,ENG,74000,488.4,279.8,57.3,44.8,41.7
+2021,Manchester United,Premier_League,ENG,74000,577.4,306.6,53.1,133.1,-6.6
+2022,Manchester United,Premier_League,ENG,74000,699.1,368.1,52.7,122.5,33.7
+2023,Manchester United,Premier_League,ENG,74000,740.1,423.6,57.2,119.6,11.9
+2024,Manchester United,Premier_League,ENG,74000,767.7,406.0,52.9,159.4,10.4
+2025,Manchester United,Premier_League,ENG,74000,755.8,361.0,47.8,60.1,145.8
+2026,Manchester United,Premier_League,ENG,74000,795.8,453.6,57.0,179.0,-35.7
+2010,Liverpool,Premier_League,ENG,61000,222.5,136.8,61.5,-18.6,48.6
+2011,Liverpool,Premier_League,ENG,61000,264.0,132.9,50.3,18.0,47.1
+2012,Liverpool,Premier_League,ENG,61000,283.2,151.0,53.3,3.8,57.7
+2013,Liverpool,Premier_League,ENG,61000,308.2,176.2,57.2,-7.3,62.3
+2014,Liverpool,Premier_League,ENG,61000,351.5,167.9,47.8,-27.3,123.0
+2015,Liverpool,Premier_League,ENG,61000,384.8,216.1,56.2,-14.7,87.2
+2016,Liverpool,Premier_League,ENG,61000,445.3,239.6,53.8,55.5,38.9
+2017,Liverpool,Premier_League,ENG,61000,460.3,258.2,56.1,0.8,86.2
+2018,Liverpool,Premier_League,ENG,61000,503.7,286.0,56.8,59.9,31.8
+2019,Liverpool,Premier_League,ENG,61000,506.2,262.2,51.8,-64.6,182.0
+2020,Liverpool,Premier_League,ENG,61000,468.8,225.6,48.1,-12.8,138.8
+2021,Liverpool,Premier_League,ENG,61000,575.7,274.3,47.6,3.1,154.4
+2022,Liverpool,Premier_League,ENG,61000,708.6,419.4,59.2,2.8,109.2
+2023,Liverpool,Premier_League,ENG,61000,776.0,442.9,57.1,-16.7,155.8
+2024,Liverpool,Premier_League,ENG,61000,675.4,380.5,56.3,34.1,91.9
+2025,Liverpool,Premier_League,ENG,61000,745.7,387.3,51.9,107.0,64.9
+2026,Liverpool,Premier_League,ENG,61000,815.7,455.0,55.8,88.0,68.7
+2010,Chelsea,Premier_League,ENG,40000,248.2,115.7,46.6,54.1,16.3
+2011,Chelsea,Premier_League,ENG,40000,288.3,184.1,63.8,69.8,-37.6
+2012,Chelsea,Premier_League,ENG,40000,331.2,173.9,52.5,35.6,38.9
+2013,Chelsea,Premier_League,ENG,40000,344.3,176.9,51.4,49.1,32.2
+2014,Chelsea,Premier_League,ENG,40000,377.8,223.6,59.2,48.8,10.9
+2015,Chelsea,Premier_League,ENG,40000,431.9,245.9,56.9,77.2,0.9
+2016,Chelsea,Premier_League,ENG,40000,429.5,222.2,51.7,39.1,60.8
+2017,Chelsea,Premier_League,ENG,40000,434.0,212.1,48.9,129.4,-16.0
+2018,Chelsea,Premier_League,ENG,40000,452.3,284.5,62.9,123.4,-68.6
+2019,Chelsea,Premier_League,ENG,40000,458.4,258.7,56.4,59.1,26.0
+2020,Chelsea,Premier_League,ENG,40000,402.1,212.9,52.9,57.7,31.0
+2021,Chelsea,Premier_League,ENG,40000,483.7,303.2,62.7,55.9,3.7
+2022,Chelsea,Premier_League,ENG,40000,547.5,263.7,48.2,44.2,102.8
+2023,Chelsea,Premier_League,ENG,40000,586.0,317.1,54.1,55.6,66.9
+2024,Chelsea,Premier_League,ENG,40000,569.4,281.7,49.5,72.6,72.8
+2025,Chelsea,Premier_League,ENG,40000,593.9,314.9,53.0,104.0,26.5
+2026,Chelsea,Premier_League,ENG,40000,617.0,349.7,56.7,66.3,46.7
+2010,Arsenal,Premier_League,ENG,60000,274.7,160.0,58.2,31.2,14.9
+2011,Arsenal,Premier_League,ENG,60000,306.0,155.4,50.8,-7.4,81.5
+2012,Arsenal,Premier_League,ENG,60000,330.0,176.0,53.3,-21.3,92.8
+2013,Arsenal,Premier_League,ENG,60000,356.7,196.7,55.2,40.3,30.5
+2014,Arsenal,Premier_League,ENG,60000,409.6,215.3,52.6,24.5,67.4
+2015,Arsenal,Premier_League,ENG,60000,449.3,259.2,57.7,-61.4,139.2
+2016,Arsenal,Premier_League,ENG,60000,424.4,218.7,51.5,60.5,39.2
+2017,Arsenal,Premier_League,ENG,60000,419.8,234.6,55.9,49.6,30.6
+2018,Arsenal,Premier_League,ENG,60000,408.3,229.2,56.1,-57.1,134.1
+2019,Arsenal,Premier_League,ENG,60000,420.6,213.4,50.7,-38.4,140.5
+2020,Arsenal,Premier_League,ENG,60000,315.6,164.3,52.0,45.7,26.8
+2021,Arsenal,Premier_League,ENG,60000,391.6,201.1,51.4,-34.9,127.5
+2022,Arsenal,Premier_League,ENG,60000,406.0,220.0,54.2,-12.9,97.4
+2023,Arsenal,Premier_League,ENG,60000,508.4,257.3,50.6,-23.2,147.1
+2024,Arsenal,Premier_League,ENG,60000,569.2,271.3,47.7,43.1,112.5
+2025,Arsenal,Premier_League,ENG,60000,625.4,309.7,49.5,-59.4,218.8
+2026,Arsenal,Premier_League,ENG,60000,763.7,375.3,49.1,-21.6,219.1
+2010,Tottenham,Premier_League,ENG,62000,147.5,93.9,63.6,8.4,8.4
+2011,Tottenham,Premier_League,ENG,62000,167.0,98.3,58.9,16.8,10.2
+2012,Tottenham,Premier_League,ENG,62000,188.3,102.3,54.3,21.7,17.2
+2013,Tottenham,Premier_League,ENG,62000,211.1,113.3,53.7,20.6,24.4
+2014,Tottenham,Premier_League,ENG,62000,230.9,132.5,57.4,-12.5,53.3
+2015,Tottenham,Premier_League,ENG,62000,258.2,146.6,56.8,-0.4,47.4
+2016,Tottenham,Premier_League,ENG,62000,294.8,151.5,51.4,40.4,29.2
+2017,Tottenham,Premier_League,ENG,62000,331.6,217.1,65.5,-7.1,38.7
+2018,Tottenham,Premier_League,ENG,62000,374.7,191.8,51.2,14.2,75.0
+2019,Tottenham,Premier_League,ENG,62000,411.4,203.4,49.4,-41.2,146.3
+2020,Tottenham,Premier_League,ENG,62000,382.1,219.3,57.4,46.0,21.3
+2021,Tottenham,Premier_League,ENG,62000,458.3,262.5,57.3,-65.9,147.2
+2022,Tottenham,Premier_League,ENG,62000,515.7,290.4,56.3,-22.0,118.4
+2023,Tottenham,Premier_League,ENG,62000,551.6,300.5,54.5,-6.0,119.2
+2024,Tottenham,Premier_League,ENG,62000,592.7,369.6,62.4,6.6,68.3
+2025,Tottenham,Premier_League,ENG,62000,615.6,344.0,55.9,43.1,74.6
+2026,Tottenham,Premier_League,ENG,62000,642.8,297.1,46.2,16.0,169.0
+2010,Newcastle United,Premier_League,ENG,52000,93.7,44.4,47.3,13.3,12.7
+2011,Newcastle United,Premier_League,ENG,52000,104.0,56.9,54.7,23.0,-1.9
+2012,Newcastle United,Premier_League,ENG,52000,119.8,73.7,61.5,33.4,-17.3
+2013,Newcastle United,Premier_League,ENG,52000,144.3,87.9,60.9,26.5,-6.2
+2014,Newcastle United,Premier_League,ENG,52000,161.2,92.2,57.2,40.5,-11.8
+2015,Newcastle United,Premier_League,ENG,52000,167.5,92.7,55.3,20.4,12.5
+2016,Newcastle United,Premier_League,ENG,52000,175.9,86.4,49.1,39.4,6.2
+2017,Newcastle United,Premier_League,ENG,52000,171.6,104.4,60.9,12.7,11.6
+2018,Newcastle United,Premier_League,ENG,52000,184.2,108.0,58.7,52.3,-22.2
+2019,Newcastle United,Premier_League,ENG,52000,175.8,86.4,49.1,44.0,1.5
+2020,Newcastle United,Premier_League,ENG,52000,158.3,92.1,58.2,39.4,-12.8
+2021,Newcastle United,Premier_League,ENG,52000,191.0,105.4,55.2,37.7,0.2
+2022,Newcastle United,Premier_League,ENG,52000,245.0,138.6,56.6,46.9,-1.7
+2023,Newcastle United,Premier_League,ENG,52000,290.3,126.4,43.5,52.4,38.9
+2024,Newcastle United,Premier_League,ENG,52000,320.7,183.0,57.1,55.5,2.0
+2025,Newcastle United,Premier_League,ENG,52000,329.0,171.2,52.0,26.3,49.2
+2026,Newcastle United,Premier_League,ENG,52000,362.4,226.1,62.4,77.7,-32.0
+2010,Aston Villa,Premier_League,ENG,42000,92.3,48.1,52.1,-4.7,25.8
+2011,Aston Villa,Premier_League,ENG,42000,95.0,53.4,56.2,-7.5,25.4
+2012,Aston Villa,Premier_League,ENG,42000,94.8,48.0,50.7,5.3,17.8
+2013,Aston Villa,Premier_League,ENG,42000,95.6,54.4,56.9,-12.5,29.8
+2014,Aston Villa,Premier_League,ENG,42000,94.9,51.6,54.4,-6.5,26.1
+2015,Aston Villa,Premier_League,ENG,42000,97.8,49.8,50.9,-8.2,31.8
+2016,Aston Villa,Premier_League,ENG,42000,106.7,58.7,55.1,-15.6,36.8
+2017,Aston Villa,Premier_League,ENG,42000,110.8,65.6,59.2,12.7,4.8
+2018,Aston Villa,Premier_League,ENG,42000,120.1,64.8,54.0,13.6,11.6
+2019,Aston Villa,Premier_League,ENG,42000,121.7,64.2,52.7,17.8,9.3
+2020,Aston Villa,Premier_League,ENG,42000,106.1,49.8,47.0,6.5,23.2
+2021,Aston Villa,Premier_League,ENG,42000,118.4,60.4,51.0,7.0,21.3
+2022,Aston Villa,Premier_League,ENG,42000,152.4,85.9,56.4,17.8,10.6
+2023,Aston Villa,Premier_League,ENG,42000,174.9,96.7,55.3,11.3,23.2
+2024,Aston Villa,Premier_League,ENG,42000,228.1,133.5,58.5,-34.2,71.8
+2025,Aston Villa,Premier_League,ENG,42000,247.5,137.9,55.7,30.4,17.4
+2026,Aston Villa,Premier_League,ENG,42000,281.9,162.5,57.7,21.9,27.0
+2010,West Ham,Premier_League,ENG,60000,174.1,97.4,56.0,15.8,17.3
+2011,West Ham,Premier_League,ENG,60000,182.2,105.0,57.6,25.4,6.3
+2012,West Ham,Premier_League,ENG,60000,193.1,114.2,59.1,-6.1,36.7
+2013,West Ham,Premier_League,ENG,60000,195.4,93.0,47.6,-20.5,74.0
+2014,West Ham,Premier_League,ENG,60000,208.2,122.3,58.7,-26.7,60.6
+2015,West Ham,Premier_League,ENG,60000,223.2,134.9,60.4,-22.6,55.1
+2016,West Ham,Premier_League,ENG,60000,230.8,142.5,61.8,-9.0,39.5
+2017,West Ham,Premier_League,ENG,60000,234.7,122.1,52.0,-16.5,70.4
+2018,West Ham,Premier_League,ENG,60000,243.4,129.5,53.2,-15.3,68.4
+2019,West Ham,Premier_League,ENG,60000,285.2,137.1,48.1,38.1,38.6
+2020,West Ham,Premier_League,ENG,60000,240.3,137.9,57.4,-27.7,70.0
+2021,West Ham,Premier_League,ENG,60000,272.1,162.3,59.6,33.3,8.5
+2022,West Ham,Premier_League,ENG,60000,328.0,162.9,49.7,4.1,79.1
+2023,West Ham,Premier_League,ENG,60000,358.7,193.9,54.1,-7.8,82.9
+2024,West Ham,Premier_League,ENG,60000,379.1,233.5,61.6,22.6,28.2
+2025,West Ham,Premier_League,ENG,60000,370.7,223.7,60.3,-16.6,71.0
+2026,West Ham,Premier_League,ENG,60000,413.6,235.4,56.9,-1.0,75.8
+2010,Everton,Premier_League,ENG,39000,176.8,114.5,64.8,20.2,-2.1
+2011,Everton,Premier_League,ENG,39000,184.8,103.1,55.8,10.8,24.6
+2012,Everton,Premier_League,ENG,39000,188.9,107.0,56.7,-7.6,42.3
+2013,Everton,Premier_League,ENG,39000,205.0,104.2,50.8,17.4,32.2
+2014,Everton,Premier_League,ENG,39000,199.7,98.7,49.4,27.8,23.3
+2015,Everton,Premier_League,ENG,39000,219.9,142.3,64.7,18.1,4.6
+2016,Everton,Premier_League,ENG,39000,224.7,127.5,56.7,-13.6,54.6
+2017,Everton,Premier_League,ENG,39000,238.6,133.4,55.9,13.2,32.4
+2018,Everton,Premier_League,ENG,39000,247.5,149.3,60.3,5.1,31.2
+2019,Everton,Premier_League,ENG,39000,270.9,184.2,68.0,-1.0,20.0
+2020,Everton,Premier_League,ENG,39000,258.8,143.5,55.5,-32.7,83.3
+2021,Everton,Premier_League,ENG,39000,287.0,155.4,54.1,-25.8,85.7
+2022,Everton,Premier_League,ENG,39000,337.7,171.3,50.7,0.6,81.3
+2023,Everton,Premier_League,ENG,39000,360.7,210.4,58.3,-37.0,97.2
+2024,Everton,Premier_League,ENG,39000,379.1,203.1,53.6,18.9,62.4
+2025,Everton,Premier_League,ENG,39000,383.9,229.1,59.7,-28.0,86.8
+2026,Everton,Premier_League,ENG,39000,396.0,178.4,45.0,-42.4,161.0
+2010,Real Madrid,La_Liga,ESP,81000,460.5,273.9,59.5,-13.9,85.4
+2011,Real Madrid,La_Liga,ESP,81000,448.3,180.1,40.2,-61.7,217.8
+2012,Real Madrid,La_Liga,ESP,81000,533.4,304.9,57.2,30.2,64.8
+2013,Real Madrid,La_Liga,ESP,81000,530.3,250.3,47.2,17.8,129.6
+2014,Real Madrid,La_Liga,ESP,81000,551.6,301.0,54.6,48.1,64.6
+2015,Real Madrid,La_Liga,ESP,81000,583.0,340.1,58.3,58.4,38.7
+2016,Real Madrid,La_Liga,ESP,81000,621.1,392.2,63.1,-10.4,84.1
+2017,Real Madrid,La_Liga,ESP,81000,615.6,379.7,61.7,66.2,15.8
+2018,Real Madrid,La_Liga,ESP,81000,688.2,363.3,52.8,86.7,66.2
+2019,Real Madrid,La_Liga,ESP,81000,690.1,388.5,56.3,6.4,122.8
+2020,Real Madrid,La_Liga,ESP,81000,601.2,302.4,50.3,-73.4,222.0
+2021,Real Madrid,La_Liga,ESP,81000,665.9,314.1,47.2,41.5,143.8
+2022,Real Madrid,La_Liga,ESP,81000,701.6,426.1,60.7,1.4,98.6
+2023,Real Madrid,La_Liga,ESP,81000,754.5,351.3,46.6,-77.8,292.3
+2024,Real Madrid,La_Liga,ESP,81000,838.2,453.5,54.1,-42.8,218.0
+2025,Real Madrid,La_Liga,ESP,81000,886.8,496.7,56.0,35.5,132.8
+2026,Real Madrid,La_Liga,ESP,81000,970.4,565.8,58.3,-100.3,262.2
+2010,FC Barcelona,La_Liga,ESP,99000,404.7,228.6,56.5,-25.5,100.4
+2011,FC Barcelona,La_Liga,ESP,99000,429.5,229.6,53.5,1.4,91.1
+2012,FC Barcelona,La_Liga,ESP,99000,449.1,219.0,48.8,11.4,106.4
+2013,FC Barcelona,La_Liga,ESP,99000,488.2,246.8,50.6,24.6,94.8
+2014,FC Barcelona,La_Liga,ESP,99000,533.7,294.9,55.3,56.4,49.0
+2015,FC Barcelona,La_Liga,ESP,99000,576.4,338.3,58.7,82.9,11.1
+2016,FC Barcelona,La_Liga,ESP,99000,580.3,335.1,57.7,42.4,57.7
+2017,FC Barcelona,La_Liga,ESP,99000,596.1,325.8,54.7,48.0,73.3
+2018,FC Barcelona,La_Liga,ESP,99000,636.0,355.8,55.9,-60.7,181.9
+2019,FC Barcelona,La_Liga,ESP,99000,712.2,436.1,61.2,-28.7,126.7
+2020,FC Barcelona,La_Liga,ESP,99000,614.4,263.9,43.0,-55.8,252.7
+2021,FC Barcelona,La_Liga,ESP,99000,616.9,306.2,49.6,74.9,81.5
+2022,FC Barcelona,La_Liga,ESP,99000,677.4,332.7,49.1,7.9,167.4
+2023,FC Barcelona,La_Liga,ESP,99000,724.1,456.6,63.1,-69.6,156.1
+2024,FC Barcelona,La_Liga,ESP,99000,806.0,516.7,64.1,-30.2,118.0
+2025,FC Barcelona,La_Liga,ESP,99000,826.9,386.5,46.7,115.6,118.1
+2026,FC Barcelona,La_Liga,ESP,99000,864.0,452.7,52.4,-83.3,278.6
+2010,Atletico Madrid,La_Liga,ESP,70000,105.8,48.8,46.1,2.8,27.7
+2011,Atletico Madrid,La_Liga,ESP,70000,119.3,73.2,61.4,-2.0,18.2
+2012,Atletico Madrid,La_Liga,ESP,70000,135.2,78.0,57.7,-13.1,36.5
+2013,Atletico Madrid,La_Liga,ESP,70000,156.3,72.8,46.6,21.2,23.3
+2014,Atletico Madrid,La_Liga,ESP,70000,165.4,92.9,56.2,-10.6,41.7
+2015,Atletico Madrid,La_Liga,ESP,70000,189.5,96.6,51.0,-13.6,59.2
+2016,Atletico Madrid,La_Liga,ESP,70000,220.7,124.0,56.2,17.6,23.9
+2017,Atletico Madrid,La_Liga,ESP,70000,255.9,135.1,52.8,38.0,18.8
+2018,Atletico Madrid,La_Liga,ESP,70000,276.2,143.4,51.9,39.0,24.8
+2019,Atletico Madrid,La_Liga,ESP,70000,298.2,157.9,52.9,-15.4,81.1
+2020,Atletico Madrid,La_Liga,ESP,70000,273.5,117.4,42.9,12.5,75.2
+2021,Atletico Madrid,La_Liga,ESP,70000,360.0,190.7,53.0,-9.8,89.1
+2022,Atletico Madrid,La_Liga,ESP,70000,389.4,208.6,53.6,-45.2,128.6
+2023,Atletico Madrid,La_Liga,ESP,70000,388.3,224.8,57.9,18.4,48.0
+2024,Atletico Madrid,La_Liga,ESP,70000,392.0,229.3,58.5,-58.7,123.4
+2025,Atletico Madrid,La_Liga,ESP,70000,432.2,230.4,53.3,47.1,46.6
+2026,Atletico Madrid,La_Liga,ESP,70000,458.4,212.4,46.3,14.8,116.5
+2010,Sevilla,La_Liga,ESP,43000,89.9,57.8,64.2,9.9,-0.2
+2011,Sevilla,La_Liga,ESP,43000,100.8,49.9,49.5,9.0,16.7
+2012,Sevilla,La_Liga,ESP,43000,101.7,51.5,50.7,-4.1,28.9
+2013,Sevilla,La_Liga,ESP,43000,109.5,58.5,53.4,-15.1,38.8
+2014,Sevilla,La_Liga,ESP,43000,110.4,55.8,50.5,7.1,19.9
+2015,Sevilla,La_Liga,ESP,43000,115.1,53.5,46.5,6.0,26.8
+2016,Sevilla,La_Liga,ESP,43000,122.0,63.9,52.4,-8.9,36.5
+2017,Sevilla,La_Liga,ESP,43000,128.1,72.2,56.4,7.7,16.2
+2018,Sevilla,La_Liga,ESP,43000,125.0,74.0,59.2,12.9,6.9
+2019,Sevilla,La_Liga,ESP,43000,151.3,86.4,57.1,-13.2,40.3
+2020,Sevilla,La_Liga,ESP,43000,128.3,75.8,59.1,0.9,19.5
+2021,Sevilla,La_Liga,ESP,43000,155.2,81.3,52.4,-14.7,49.7
+2022,Sevilla,La_Liga,ESP,43000,170.7,90.2,52.8,16.1,21.7
+2023,Sevilla,La_Liga,ESP,43000,188.6,117.9,62.5,-8.7,32.2
+2024,Sevilla,La_Liga,ESP,43000,192.5,108.9,56.6,3.9,31.6
+2025,Sevilla,La_Liga,ESP,43000,207.3,90.7,43.7,24.7,40.1
+2026,Sevilla,La_Liga,ESP,43000,203.2,88.2,43.4,26.5,37.7
+2010,Valencia,La_Liga,ESP,49000,88.5,47.8,54.0,5.0,13.6
+2011,Valencia,La_Liga,ESP,49000,95.2,47.4,49.8,3.3,20.6
+2012,Valencia,La_Liga,ESP,49000,104.0,52.1,50.1,9.1,16.7
+2013,Valencia,La_Liga,ESP,49000,107.4,57.9,53.9,2.7,20.0
+2014,Valencia,La_Liga,ESP,49000,110.5,64.6,58.5,-12.0,30.2
+2015,Valencia,La_Liga,ESP,49000,115.3,62.2,53.9,0.4,23.9
+2016,Valencia,La_Liga,ESP,49000,114.7,67.0,58.4,-9.7,28.7
+2017,Valencia,La_Liga,ESP,49000,121.3,66.2,54.5,6.5,18.4
+2018,Valencia,La_Liga,ESP,49000,121.4,57.7,47.5,-6.7,40.0
+2019,Valencia,La_Liga,ESP,49000,147.1,83.0,56.4,-19.0,46.3
+2020,Valencia,La_Liga,ESP,49000,124.6,61.5,49.4,-7.9,39.8
+2021,Valencia,La_Liga,ESP,49000,149.8,86.5,57.7,16.3,9.6
+2022,Valencia,La_Liga,ESP,49000,174.8,97.5,55.8,16.3,17.2
+2023,Valencia,La_Liga,ESP,49000,188.7,88.5,46.9,-6.8,59.8
+2024,Valencia,La_Liga,ESP,49000,200.9,122.5,60.9,-5.4,33.7
+2025,Valencia,La_Liga,ESP,49000,190.6,105.8,55.5,-20.2,57.4
+2026,Valencia,La_Liga,ESP,49000,219.5,126.4,57.6,-18.0,56.2
+2010,Real Sociedad,La_Liga,ESP,39000,88.6,48.8,55.1,-11.1,28.8
+2011,Real Sociedad,La_Liga,ESP,39000,93.0,60.7,65.2,-13.5,22.6
+2012,Real Sociedad,La_Liga,ESP,39000,104.2,52.5,50.4,5.7,20.0
+2013,Real Sociedad,La_Liga,ESP,39000,107.7,61.6,57.2,9.2,10.0
+2014,Real Sociedad,La_Liga,ESP,39000,112.6,66.1,58.7,14.3,4.1
+2015,Real Sociedad,La_Liga,ESP,39000,116.6,53.7,46.1,16.8,16.9
+2016,Real Sociedad,La_Liga,ESP,39000,118.3,57.5,48.6,-7.4,38.6
+2017,Real Sociedad,La_Liga,ESP,39000,131.8,81.4,61.8,-15.4,32.8
+2018,Real Sociedad,La_Liga,ESP,39000,135.4,74.5,55.1,14.5,12.5
+2019,Real Sociedad,La_Liga,ESP,39000,136.3,77.7,57.0,-0.3,24.9
+2020,Real Sociedad,La_Liga,ESP,39000,124.0,67.9,54.7,18.0,7.1
+2021,Real Sociedad,La_Liga,ESP,39000,157.8,93.8,59.5,17.7,6.8
+2022,Real Sociedad,La_Liga,ESP,39000,174.6,96.4,55.2,-1.9,36.4
+2023,Real Sociedad,La_Liga,ESP,39000,178.3,96.7,54.2,24.0,13.0
+2024,Real Sociedad,La_Liga,ESP,39000,187.8,108.1,57.6,-9.2,42.0
+2025,Real Sociedad,La_Liga,ESP,39000,191.0,103.9,54.4,-5.5,44.9
+2026,Real Sociedad,La_Liga,ESP,39000,214.7,129.1,60.1,15.9,16.1
+2010,Athletic Bilbao,La_Liga,ESP,53000,88.7,44.0,49.6,2.8,19.8
+2011,Athletic Bilbao,La_Liga,ESP,53000,97.0,59.6,61.4,-1.9,15.1
+2012,Athletic Bilbao,La_Liga,ESP,53000,100.4,49.0,48.8,2.4,23.9
+2013,Athletic Bilbao,La_Liga,ESP,53000,106.3,57.4,54.0,-9.4,31.8
+2014,Athletic Bilbao,La_Liga,ESP,53000,111.3,58.4,52.5,13.6,11.5
+2015,Athletic Bilbao,La_Liga,ESP,53000,116.5,61.7,53.0,-6.4,32.0
+2016,Athletic Bilbao,La_Liga,ESP,53000,121.2,59.8,49.3,11.7,19.5
+2017,Athletic Bilbao,La_Liga,ESP,53000,130.6,64.3,49.2,1.2,32.5
+2018,Athletic Bilbao,La_Liga,ESP,53000,122.9,67.8,55.1,4.5,19.9
+2019,Athletic Bilbao,La_Liga,ESP,53000,140.3,85.7,61.1,-9.7,29.3
+2020,Athletic Bilbao,La_Liga,ESP,53000,130.5,81.9,62.8,15.5,0.4
+2021,Athletic Bilbao,La_Liga,ESP,53000,147.8,75.7,51.2,-13.2,48.3
+2022,Athletic Bilbao,La_Liga,ESP,53000,171.6,106.7,62.1,-12.5,34.6
+2023,Athletic Bilbao,La_Liga,ESP,53000,182.3,117.6,64.5,6.7,12.4
+2024,Athletic Bilbao,La_Liga,ESP,53000,205.5,112.1,54.5,6.5,35.6
+2025,Athletic Bilbao,La_Liga,ESP,53000,203.7,144.4,70.9,-4.9,13.3
+2026,Athletic Bilbao,La_Liga,ESP,53000,203.6,121.9,59.8,-26.6,57.5
+2010,Real Betis,La_Liga,ESP,60000,89.7,53.4,59.5,3.3,10.6
+2011,Real Betis,La_Liga,ESP,60000,96.7,53.2,55.1,9.8,9.5
+2012,Real Betis,La_Liga,ESP,60000,102.0,46.2,45.3,-13.9,44.2
+2013,Real Betis,La_Liga,ESP,60000,102.6,49.0,47.8,-7.8,35.7
+2014,Real Betis,La_Liga,ESP,60000,110.8,57.1,51.5,9.9,16.1
+2015,Real Betis,La_Liga,ESP,60000,110.8,58.7,53.0,1.1,23.4
+2016,Real Betis,La_Liga,ESP,60000,120.1,67.7,56.4,0.7,21.7
+2017,Real Betis,La_Liga,ESP,60000,127.9,70.7,55.3,0.2,25.0
+2018,Real Betis,La_Liga,ESP,60000,122.6,67.3,54.9,7.5,17.0
+2019,Real Betis,La_Liga,ESP,60000,140.4,77.0,54.9,-16.9,45.2
+2020,Real Betis,La_Liga,ESP,60000,132.6,65.6,49.4,-18.0,51.9
+2021,Real Betis,La_Liga,ESP,60000,144.7,81.7,56.4,8.5,18.4
+2022,Real Betis,La_Liga,ESP,60000,171.1,72.7,42.5,-17.8,73.4
+2023,Real Betis,La_Liga,ESP,60000,179.6,93.8,52.2,18.0,22.9
+2024,Real Betis,La_Liga,ESP,60000,195.2,104.3,53.4,-20.6,62.7
+2025,Real Betis,La_Liga,ESP,60000,197.5,100.1,50.7,12.1,35.9
+2026,Real Betis,La_Liga,ESP,60000,198.6,113.1,56.9,-15.5,51.4
+2010,Bayern Munich,Bundesliga,GER,75000,321.6,202.4,62.9,-42.6,81.4
+2011,Bayern Munich,Bundesliga,GER,75000,375.7,202.4,53.9,45.0,34.3
+2012,Bayern Munich,Bundesliga,GER,75000,384.2,190.6,49.6,36.9,60.6
+2013,Bayern Munich,Bundesliga,GER,75000,418.6,241.8,57.8,32.0,40.1
+2014,Bayern Munich,Bundesliga,GER,75000,457.1,277.9,60.8,-51.4,116.3
+2015,Bayern Munich,Bundesliga,GER,75000,460.5,265.5,57.6,34.8,45.2
+2016,Bayern Munich,Bundesliga,GER,75000,478.2,255.4,53.4,-63.1,166.4
+2017,Bayern Munich,Bundesliga,GER,75000,539.9,281.5,52.1,-2.9,126.3
+2018,Bayern Munich,Bundesliga,GER,75000,603.1,326.6,54.2,-6.6,132.4
+2019,Bayern Munich,Bundesliga,GER,75000,597.8,331.1,55.4,67.1,50.2
+2020,Bayern Munich,Bundesliga,GER,75000,546.2,332.2,60.8,-74.3,151.7
+2021,Bayern Munich,Bundesliga,GER,75000,603.6,349.8,57.9,52.9,50.0
+2022,Bayern Munich,Bundesliga,GER,75000,664.2,396.6,59.7,75.9,25.7
+2023,Bayern Munich,Bundesliga,GER,75000,720.1,427.9,59.4,-23.4,135.5
+2024,Bayern Munich,Bundesliga,GER,75000,793.0,447.7,56.4,-7.6,154.7
+2025,Bayern Munich,Bundesliga,GER,75000,805.6,325.0,40.3,-76.9,356.1
+2026,Bayern Munich,Bundesliga,GER,75000,743.9,345.1,46.4,77.5,135.4
+2010,Borussia Dortmund,Bundesliga,GER,81000,154.2,75.8,49.2,20.8,19.0
+2011,Borussia Dortmund,Bundesliga,GER,81000,185.3,97.4,52.6,-6.8,48.4
+2012,Borussia Dortmund,Bundesliga,GER,81000,203.6,116.1,57.0,17.6,19.0
+2013,Borussia Dortmund,Bundesliga,GER,81000,230.3,115.1,50.0,-9.6,67.2
+2014,Borussia Dortmund,Bundesliga,GER,81000,254.9,122.8,48.2,16.8,51.6
+2015,Borussia Dortmund,Bundesliga,GER,81000,274.8,163.8,59.6,30.6,11.7
+2016,Borussia Dortmund,Bundesliga,GER,81000,295.3,160.8,54.5,9.5,51.1
+2017,Borussia Dortmund,Bundesliga,GER,81000,320.5,160.2,50.0,-21.7,101.9
+2018,Borussia Dortmund,Bundesliga,GER,81000,342.6,181.3,52.9,-10.2,85.8
+2019,Borussia Dortmund,Bundesliga,GER,81000,352.9,202.3,57.3,16.7,45.7
+2020,Borussia Dortmund,Bundesliga,GER,81000,312.4,183.3,58.7,-32.4,83.4
+2021,Borussia Dortmund,Bundesliga,GER,81000,338.5,162.4,48.0,-39.9,131.3
+2022,Borussia Dortmund,Bundesliga,GER,81000,353.8,186.0,52.6,21.0,58.3
+2023,Borussia Dortmund,Bundesliga,GER,81000,406.1,259.8,64.0,-29.1,73.8
+2024,Borussia Dortmund,Bundesliga,GER,81000,418.6,237.6,56.8,-27.6,103.9
+2025,Borussia Dortmund,Bundesliga,GER,81000,441.6,245.8,55.7,10.7,74.7
+2026,Borussia Dortmund,Bundesliga,GER,81000,459.2,235.8,51.4,12.7,95.9
+2010,RB Leipzig,Bundesliga,GER,47000,5.1,2.8,55.0,-0.4,1.4
+2011,RB Leipzig,Bundesliga,GER,47000,22.4,11.9,53.1,-6.3,11.2
+2012,RB Leipzig,Bundesliga,GER,47000,39.4,19.3,48.8,-4.7,15.0
+2013,RB Leipzig,Bundesliga,GER,47000,55.2,25.8,46.7,-7.5,23.1
+2014,RB Leipzig,Bundesliga,GER,47000,70.8,39.1,55.3,-10.4,24.3
+2015,RB Leipzig,Bundesliga,GER,47000,89.1,51.8,58.1,-25.5,40.6
+2016,RB Leipzig,Bundesliga,GER,47000,119.5,68.2,57.0,-28.7,50.1
+2017,RB Leipzig,Bundesliga,GER,47000,137.8,73.3,53.2,-36.3,66.4
+2018,RB Leipzig,Bundesliga,GER,47000,175.4,96.4,55.0,-28.4,63.6
+2019,RB Leipzig,Bundesliga,GER,47000,211.0,118.2,56.0,-61.2,101.2
+2020,RB Leipzig,Bundesliga,GER,47000,200.1,104.8,52.4,-71.3,116.6
+2021,RB Leipzig,Bundesliga,GER,47000,229.3,119.7,52.2,-86.6,138.8
+2022,RB Leipzig,Bundesliga,GER,47000,257.2,129.2,50.2,-61.9,125.6
+2023,RB Leipzig,Bundesliga,GER,47000,287.0,159.3,55.5,-47.9,103.8
+2024,RB Leipzig,Bundesliga,GER,47000,302.1,158.0,52.3,-112.8,181.3
+2025,RB Leipzig,Bundesliga,GER,47000,315.8,180.6,57.2,-98.1,154.4
+2026,RB Leipzig,Bundesliga,GER,47000,337.9,187.7,55.5,-73.7,139.5
+2010,Bayer Leverkusen,Bundesliga,GER,30000,96.0,59.8,62.4,-4.2,16.3
+2011,Bayer Leverkusen,Bundesliga,GER,30000,116.4,64.7,55.6,-3.0,25.6
+2012,Bayer Leverkusen,Bundesliga,GER,30000,129.4,80.6,62.3,-12.3,28.7
+2013,Bayer Leverkusen,Bundesliga,GER,30000,150.0,77.7,51.8,22.2,12.7
+2014,Bayer Leverkusen,Bundesliga,GER,30000,154.9,88.7,57.3,-15.8,43.2
+2015,Bayer Leverkusen,Bundesliga,GER,30000,174.6,94.3,54.0,20.1,16.5
+2016,Bayer Leverkusen,Bundesliga,GER,30000,178.8,84.1,47.0,16.5,33.5
+2017,Bayer Leverkusen,Bundesliga,GER,30000,186.3,114.7,61.6,-6.7,31.7
+2018,Bayer Leverkusen,Bundesliga,GER,30000,186.7,116.1,62.2,24.1,-0.2
+2019,Bayer Leverkusen,Bundesliga,GER,30000,194.1,111.0,57.2,13.4,21.3
+2020,Bayer Leverkusen,Bundesliga,GER,30000,170.6,90.3,53.0,19.9,17.7
+2021,Bayer Leverkusen,Bundesliga,GER,30000,217.4,126.7,58.3,5.0,31.4
+2022,Bayer Leverkusen,Bundesliga,GER,30000,289.8,159.5,55.0,-16.2,74.0
+2023,Bayer Leverkusen,Bundesliga,GER,30000,339.3,175.5,51.7,-50.8,129.8
+2024,Bayer Leverkusen,Bundesliga,GER,30000,379.2,238.5,62.9,-25.9,71.8
+2025,Bayer Leverkusen,Bundesliga,GER,30000,411.9,252.1,61.2,4.8,52.0
+2026,Bayer Leverkusen,Bundesliga,GER,30000,427.8,248.1,58.0,-22.1,94.9
+2010,Eintracht Frankfurt,Bundesliga,GER,51000,88.1,51.5,58.5,-8.8,23.3
+2011,Eintracht Frankfurt,Bundesliga,GER,51000,93.6,57.6,61.5,5.0,7.6
+2012,Eintracht Frankfurt,Bundesliga,GER,51000,105.3,56.5,53.6,0.3,22.2
+2013,Eintracht Frankfurt,Bundesliga,GER,51000,104.9,58.2,55.5,-11.9,32.4
+2014,Eintracht Frankfurt,Bundesliga,GER,51000,114.3,60.8,53.2,-1.2,26.1
+2015,Eintracht Frankfurt,Bundesliga,GER,51000,112.0,64.1,57.3,16.8,3.1
+2016,Eintracht Frankfurt,Bundesliga,GER,51000,117.6,63.3,53.8,16.4,8.5
+2017,Eintracht Frankfurt,Bundesliga,GER,51000,124.1,79.3,63.9,12.4,1.5
+2018,Eintracht Frankfurt,Bundesliga,GER,51000,129.1,57.4,44.5,-12.5,51.9
+2019,Eintracht Frankfurt,Bundesliga,GER,51000,139.7,72.1,51.6,17.1,15.7
+2020,Eintracht Frankfurt,Bundesliga,GER,51000,128.3,78.8,61.4,9.3,8.1
+2021,Eintracht Frankfurt,Bundesliga,GER,51000,149.7,81.7,54.6,-11.2,41.8
+2022,Eintracht Frankfurt,Bundesliga,GER,51000,182.5,79.2,43.4,15.4,42.3
+2023,Eintracht Frankfurt,Bundesliga,GER,51000,181.2,99.8,55.1,20.7,15.4
+2024,Eintracht Frankfurt,Bundesliga,GER,51000,197.8,105.0,53.1,19.3,24.1
+2025,Eintracht Frankfurt,Bundesliga,GER,51000,207.8,116.2,55.9,-30.6,70.2
+2026,Eintracht Frankfurt,Bundesliga,GER,51000,209.7,109.5,52.2,3.2,44.6
+2010,Wolfsburg,Bundesliga,GER,30000,91.3,50.2,55.0,-13.0,31.3
+2011,Wolfsburg,Bundesliga,GER,30000,89.1,42.7,47.9,7.5,16.7
+2012,Wolfsburg,Bundesliga,GER,30000,99.7,53.5,53.7,-7.0,28.2
+2013,Wolfsburg,Bundesliga,GER,30000,102.5,52.0,50.7,-10.1,35.0
+2014,Wolfsburg,Bundesliga,GER,30000,116.6,61.7,52.9,15.8,10.0
+2015,Wolfsburg,Bundesliga,GER,30000,111.5,50.7,45.5,8.0,24.9
+2016,Wolfsburg,Bundesliga,GER,30000,116.7,63.7,54.6,-11.4,35.3
+2017,Wolfsburg,Bundesliga,GER,30000,122.3,68.2,55.7,8.4,15.1
+2018,Wolfsburg,Bundesliga,GER,30000,131.6,63.7,48.4,-2.5,37.6
+2019,Wolfsburg,Bundesliga,GER,30000,137.5,80.0,58.2,20.6,2.6
+2020,Wolfsburg,Bundesliga,GER,30000,123.7,66.1,53.4,-5.4,32.1
+2021,Wolfsburg,Bundesliga,GER,30000,152.3,82.7,54.3,1.4,30.2
+2022,Wolfsburg,Bundesliga,GER,30000,178.7,96.0,53.7,23.6,14.4
+2023,Wolfsburg,Bundesliga,GER,30000,195.2,126.5,64.8,17.8,2.1
+2024,Wolfsburg,Bundesliga,GER,30000,189.7,118.4,62.4,22.8,1.0
+2025,Wolfsburg,Bundesliga,GER,30000,193.7,101.8,52.6,18.8,24.6
+2026,Wolfsburg,Bundesliga,GER,30000,207.4,107.3,51.7,11.2,37.0
+2010,Borussia Monchengladbach,Bundesliga,GER,54000,89.1,45.1,50.6,3.8,17.9
+2011,Borussia Monchengladbach,Bundesliga,GER,54000,96.7,57.5,59.4,8.5,6.5
+2012,Borussia Monchengladbach,Bundesliga,GER,54000,100.2,51.5,51.4,12.0,11.6
+2013,Borussia Monchengladbach,Bundesliga,GER,54000,101.3,46.6,45.9,-3.6,33.1
+2014,Borussia Monchengladbach,Bundesliga,GER,54000,106.6,65.7,61.6,-8.1,22.4
+2015,Borussia Monchengladbach,Bundesliga,GER,54000,119.9,68.4,57.1,-17.9,39.4
+2016,Borussia Monchengladbach,Bundesliga,GER,54000,117.0,67.4,57.6,6.2,14.2
+2017,Borussia Monchengladbach,Bundesliga,GER,54000,123.0,71.1,57.8,-11.3,32.5
+2018,Borussia Monchengladbach,Bundesliga,GER,54000,127.9,63.2,49.4,0.1,32.7
+2019,Borussia Monchengladbach,Bundesliga,GER,54000,141.2,80.0,56.6,-3.6,29.5
+2020,Borussia Monchengladbach,Bundesliga,GER,54000,129.0,74.6,57.9,11.9,10.2
+2021,Borussia Monchengladbach,Bundesliga,GER,54000,156.6,96.1,61.4,-4.2,25.5
+2022,Borussia Monchengladbach,Bundesliga,GER,54000,182.3,95.4,52.3,3.7,37.6
+2023,Borussia Monchengladbach,Bundesliga,GER,54000,184.5,97.7,52.9,-24.0,64.7
+2024,Borussia Monchengladbach,Bundesliga,GER,54000,194.0,91.6,47.2,2.8,51.1
+2025,Borussia Monchengladbach,Bundesliga,GER,54000,210.9,107.6,51.0,-10.0,60.6
+2026,Borussia Monchengladbach,Bundesliga,GER,54000,203.5,105.5,51.9,9.4,37.7
+2010,Juventus,Serie_A,ITA,41000,204.8,130.4,63.7,22.2,0.9
+2011,Juventus,Serie_A,ITA,41000,235.8,130.8,55.5,22.7,23.3
+2012,Juventus,Serie_A,ITA,41000,249.2,136.5,54.8,21.3,29.1
+2013,Juventus,Serie_A,ITA,41000,269.6,157.2,58.3,0.2,44.8
+2014,Juventus,Serie_A,ITA,41000,305.6,191.6,62.7,-26.4,64.0
+2015,Juventus,Serie_A,ITA,41000,320.4,182.2,56.9,1.7,56.4
+2016,Juventus,Serie_A,ITA,41000,338.8,176.2,52.0,-6.8,84.7
+2017,Juventus,Serie_A,ITA,41000,357.1,192.5,53.9,-12.8,88.1
+2018,Juventus,Serie_A,ITA,41000,344.6,154.8,44.9,11.6,92.1
+2019,Juventus,Serie_A,ITA,41000,383.1,215.5,56.3,25.8,46.0
+2020,Juventus,Serie_A,ITA,41000,337.2,219.2,65.0,2.9,30.7
+2021,Juventus,Serie_A,ITA,41000,369.0,194.8,52.8,-16.1,98.0
+2022,Juventus,Serie_A,ITA,41000,376.2,211.7,56.3,-34.4,104.8
+2023,Juventus,Serie_A,ITA,41000,397.3,205.4,51.7,41.0,51.6
+2024,Juventus,Serie_A,ITA,41000,419.7,231.9,55.3,23.7,59.1
+2025,Juventus,Serie_A,ITA,41000,422.5,245.3,58.1,12.5,59.0
+2026,Juventus,Serie_A,ITA,41000,476.4,202.9,42.6,-0.9,155.2
+2010,Inter Milan,Serie_A,ITA,75000,232.4,95.6,41.1,5.7,73.0
+2011,Inter Milan,Serie_A,ITA,75000,207.3,122.4,59.0,-21.0,54.1
+2012,Inter Milan,Serie_A,ITA,75000,208.1,120.3,57.8,-23.4,59.1
+2013,Inter Milan,Serie_A,ITA,75000,195.2,111.0,56.9,2.1,33.2
+2014,Inter Milan,Serie_A,ITA,75000,194.0,99.3,51.2,-9.8,56.0
+2015,Inter Milan,Serie_A,ITA,75000,177.9,83.9,47.2,24.5,24.9
+2016,Inter Milan,Serie_A,ITA,75000,206.5,116.6,56.5,17.7,20.6
+2017,Inter Milan,Serie_A,ITA,75000,222.4,130.6,58.7,10.4,25.8
+2018,Inter Milan,Serie_A,ITA,75000,238.0,141.3,59.4,6.8,30.4
+2019,Inter Milan,Serie_A,ITA,75000,271.7,174.7,64.3,34.2,-5.1
+2020,Inter Milan,Serie_A,ITA,75000,252.3,172.9,68.6,-10.2,26.4
+2021,Inter Milan,Serie_A,ITA,75000,269.5,154.0,57.1,37.5,10.6
+2022,Inter Milan,Serie_A,ITA,75000,304.2,151.6,49.8,-41.9,118.4
+2023,Inter Milan,Serie_A,ITA,75000,347.9,178.6,51.3,20.7,61.6
+2024,Inter Milan,Serie_A,ITA,75000,378.8,203.5,53.7,-49.5,130.1
+2025,Inter Milan,Serie_A,ITA,75000,384.8,218.4,56.8,-38.6,108.8
+2026,Inter Milan,Serie_A,ITA,75000,425.9,226.2,53.1,-53.1,146.3
+2010,AC Milan,Serie_A,ITA,75000,232.1,124.7,53.7,9.0,40.4
+2011,AC Milan,Serie_A,ITA,75000,234.4,108.6,46.3,17.0,50.2
+2012,AC Milan,Serie_A,ITA,75000,218.5,124.3,56.9,-19.9,59.5
+2013,AC Milan,Serie_A,ITA,75000,222.7,136.4,61.2,-6.0,36.7
+2014,AC Milan,Serie_A,ITA,75000,197.8,117.0,59.1,-12.0,43.3
+2015,AC Milan,Serie_A,ITA,75000,190.6,104.6,54.9,-9.3,47.7
+2016,AC Milan,Serie_A,ITA,75000,203.4,113.7,55.9,-15.2,54.1
+2017,AC Milan,Serie_A,ITA,75000,209.0,127.8,61.1,6.1,22.9
+2018,AC Milan,Serie_A,ITA,75000,198.1,107.3,54.2,11.8,29.4
+2019,AC Milan,Serie_A,ITA,75000,200.6,122.8,61.2,26.2,1.4
+2020,AC Milan,Serie_A,ITA,75000,171.7,86.6,50.4,-14.2,56.4
+2021,AC Milan,Serie_A,ITA,75000,223.1,116.7,52.3,24.7,26.0
+2022,AC Milan,Serie_A,ITA,75000,249.6,160.5,64.3,23.8,2.9
+2023,AC Milan,Serie_A,ITA,75000,320.2,185.3,57.9,-30.2,85.0
+2024,AC Milan,Serie_A,ITA,75000,393.7,210.2,53.4,43.9,41.2
+2025,AC Milan,Serie_A,ITA,75000,394.1,205.3,52.1,3.1,87.2
+2026,AC Milan,Serie_A,ITA,75000,423.2,246.6,58.3,-2.7,73.6
+2010,Napoli,Serie_A,ITA,55000,132.0,69.8,52.9,-4.7,33.8
+2011,Napoli,Serie_A,ITA,55000,133.2,81.6,61.3,6.1,12.2
+2012,Napoli,Serie_A,ITA,55000,145.4,96.2,66.1,2.7,10.2
+2013,Napoli,Serie_A,ITA,55000,163.5,90.2,55.1,-13.3,45.8
+2014,Napoli,Serie_A,ITA,55000,167.3,95.3,57.0,9.0,21.2
+2015,Napoli,Serie_A,ITA,55000,179.0,90.3,50.4,3.5,40.4
+2016,Napoli,Serie_A,ITA,55000,189.0,110.1,58.3,18.8,12.8
+2017,Napoli,Serie_A,ITA,55000,188.1,94.7,50.4,22.2,24.2
+2018,Napoli,Serie_A,ITA,55000,186.0,104.5,56.2,-0.5,35.5
+2019,Napoli,Serie_A,ITA,55000,198.6,79.9,40.2,0.8,68.2
+2020,Napoli,Serie_A,ITA,55000,182.0,94.0,51.7,23.6,18.8
+2021,Napoli,Serie_A,ITA,55000,190.2,118.3,62.2,-7.9,32.2
+2022,Napoli,Serie_A,ITA,55000,226.0,150.6,66.6,2.1,16.8
+2023,Napoli,Serie_A,ITA,55000,284.4,148.0,52.0,37.5,27.8
+2024,Napoli,Serie_A,ITA,55000,355.4,193.6,54.5,-30.0,103.0
+2025,Napoli,Serie_A,ITA,55000,381.4,207.6,54.4,-40.8,119.2
+2026,Napoli,Serie_A,ITA,55000,381.0,243.6,63.9,-18.6,60.8
+2010,Roma,Serie_A,ITA,70000,128.7,66.1,51.4,5.0,25.4
+2011,Roma,Serie_A,ITA,70000,141.9,85.1,59.9,-0.2,21.6
+2012,Roma,Serie_A,ITA,70000,149.1,71.9,48.2,12.7,27.2
+2013,Roma,Serie_A,ITA,70000,161.2,89.6,55.5,14.6,16.8
+2014,Roma,Serie_A,ITA,70000,184.9,80.8,43.7,-21.9,79.8
+2015,Roma,Serie_A,ITA,70000,199.0,130.3,65.5,-27.2,46.2
+2016,Roma,Serie_A,ITA,70000,196.9,125.1,63.5,12.3,10.3
+2017,Roma,Serie_A,ITA,70000,201.8,112.1,55.6,-15.8,55.0
+2018,Roma,Serie_A,ITA,70000,202.3,103.1,51.0,8.6,40.0
+2019,Roma,Serie_A,ITA,70000,188.9,107.0,56.6,12.8,21.8
+2020,Roma,Serie_A,ITA,70000,163.5,89.8,54.9,-2.5,35.4
+2021,Roma,Serie_A,ITA,70000,172.8,92.0,53.2,1.0,36.6
+2022,Roma,Serie_A,ITA,70000,193.9,95.5,49.2,-18.3,68.2
+2023,Roma,Serie_A,ITA,70000,227.8,118.8,52.2,17.7,34.3
+2024,Roma,Serie_A,ITA,70000,291.4,165.1,56.7,2.8,50.6
+2025,Roma,Serie_A,ITA,70000,299.4,133.1,44.5,-22.6,114.1
+2026,Roma,Serie_A,ITA,70000,329.1,183.2,55.7,36.4,27.2
+2010,Lazio,Serie_A,ITA,70000,92.5,55.0,59.5,3.6,10.7
+2011,Lazio,Serie_A,ITA,70000,91.2,51.1,56.1,-11.8,29.0
+2012,Lazio,Serie_A,ITA,70000,104.8,56.0,53.4,-11.5,34.2
+2013,Lazio,Serie_A,ITA,70000,101.7,41.9,41.3,-11.9,46.2
+2014,Lazio,Serie_A,ITA,70000,109.9,58.1,52.9,1.3,23.0
+2015,Lazio,Serie_A,ITA,70000,119.6,64.8,54.1,0.8,24.1
+2016,Lazio,Serie_A,ITA,70000,122.5,70.8,57.8,-2.5,23.6
+2017,Lazio,Serie_A,ITA,70000,128.9,63.4,49.2,15.1,18.1
+2018,Lazio,Serie_A,ITA,70000,126.3,74.2,58.7,-13.2,33.7
+2019,Lazio,Serie_A,ITA,70000,137.0,85.7,62.6,-16.0,33.0
+2020,Lazio,Serie_A,ITA,70000,132.2,74.3,56.2,9.2,15.7
+2021,Lazio,Serie_A,ITA,70000,155.7,83.8,53.8,7.3,25.7
+2022,Lazio,Serie_A,ITA,70000,169.2,97.7,57.8,16.8,12.4
+2023,Lazio,Serie_A,ITA,70000,175.7,90.3,51.4,-23.7,65.2
+2024,Lazio,Serie_A,ITA,70000,192.9,92.8,48.1,-10.5,62.3
+2025,Lazio,Serie_A,ITA,70000,197.1,116.0,58.9,-18.5,50.3
+2026,Lazio,Serie_A,ITA,70000,207.1,109.8,53.0,22.4,23.1
+2010,Atalanta,Serie_A,ITA,21000,88.8,43.7,49.3,7.1,15.8
+2011,Atalanta,Serie_A,ITA,21000,94.1,46.3,49.2,6.6,17.6
+2012,Atalanta,Serie_A,ITA,21000,103.0,48.5,47.1,7.6,21.1
+2013,Atalanta,Serie_A,ITA,21000,104.9,59.5,56.7,3.8,15.4
+2014,Atalanta,Serie_A,ITA,21000,105.8,51.5,48.7,15.7,12.1
+2015,Atalanta,Serie_A,ITA,21000,119.0,52.3,43.9,16.5,20.5
+2016,Atalanta,Serie_A,ITA,21000,124.6,67.6,54.2,-11.6,37.5
+2017,Atalanta,Serie_A,ITA,21000,122.5,66.7,54.4,-9.1,34.3
+2018,Atalanta,Serie_A,ITA,21000,121.2,72.4,59.7,11.1,7.5
+2019,Atalanta,Serie_A,ITA,21000,138.9,66.8,48.1,-15.1,52.5
+2020,Atalanta,Serie_A,ITA,21000,128.2,65.9,51.4,-18.6,48.9
+2021,Atalanta,Serie_A,ITA,21000,151.5,85.8,56.6,-19.2,47.1
+2022,Atalanta,Serie_A,ITA,21000,181.7,90.3,49.7,-13.9,59.9
+2023,Atalanta,Serie_A,ITA,21000,190.5,116.8,61.3,17.1,8.9
+2024,Atalanta,Serie_A,ITA,21000,193.2,119.4,61.8,12.2,13.3
+2025,Atalanta,Serie_A,ITA,21000,202.7,109.3,53.9,-18.4,61.1
+2026,Atalanta,Serie_A,ITA,21000,209.8,112.7,53.7,15.4,29.2
+2010,Fiorentina,Serie_A,ITA,43000,91.2,47.1,51.6,2.7,18.7
+2011,Fiorentina,Serie_A,ITA,43000,104.6,48.3,46.1,3.2,27.1
+2012,Fiorentina,Serie_A,ITA,43000,98.5,57.0,57.9,-4.1,21.0
+2013,Fiorentina,Serie_A,ITA,43000,108.1,65.8,60.9,-13.5,28.8
+2014,Fiorentina,Serie_A,ITA,43000,114.3,49.5,43.3,9.3,26.9
+2015,Fiorentina,Serie_A,ITA,43000,116.7,70.5,60.4,6.8,10.3
+2016,Fiorentina,Serie_A,ITA,43000,117.3,65.4,55.7,13.1,9.5
+2017,Fiorentina,Serie_A,ITA,43000,126.2,76.2,60.4,-8.6,27.0
+2018,Fiorentina,Serie_A,ITA,43000,133.9,73.7,55.0,-1.1,27.8
+2019,Fiorentina,Serie_A,ITA,43000,134.8,77.5,57.5,-10.1,33.6
+2020,Fiorentina,Serie_A,ITA,43000,127.1,74.1,58.2,10.0,11.3
+2021,Fiorentina,Serie_A,ITA,43000,149.7,81.5,54.4,-3.7,34.6
+2022,Fiorentina,Serie_A,ITA,43000,172.4,88.8,51.5,-21.4,61.8
+2023,Fiorentina,Serie_A,ITA,43000,191.3,110.4,57.7,-10.2,43.4
+2024,Fiorentina,Serie_A,ITA,43000,193.6,91.3,47.2,-17.1,71.0
+2025,Fiorentina,Serie_A,ITA,43000,191.1,112.3,58.8,-24.0,55.0
+2026,Fiorentina,Serie_A,ITA,43000,223.4,110.6,49.5,-9.3,66.2
+2010,Paris Saint-Germain,Ligue_1,FRA,48000,105.5,64.3,61.0,7.8,7.1
+2011,Paris Saint-Germain,Ligue_1,FRA,48000,177.4,97.6,55.0,21.5,14.0
+2012,Paris Saint-Germain,Ligue_1,FRA,48000,247.2,134.8,54.6,72.9,-22.4
+2013,Paris Saint-Germain,Ligue_1,FRA,48000,329.9,188.9,57.3,80.0,-21.5
+2014,Paris Saint-Germain,Ligue_1,FRA,48000,385.7,231.2,59.9,82.8,-24.7
+2015,Paris Saint-Germain,Ligue_1,FRA,48000,470.6,252.2,53.6,49.4,51.3
+2016,Paris Saint-Germain,Ligue_1,FRA,48000,478.1,250.1,52.3,83.1,25.3
+2017,Paris Saint-Germain,Ligue_1,FRA,48000,495.4,288.3,58.2,131.9,-48.7
+2018,Paris Saint-Germain,Ligue_1,FRA,48000,520.9,282.8,54.3,149.1,-41.3
+2019,Paris Saint-Germain,Ligue_1,FRA,48000,520.6,245.4,47.1,138.8,6.2
+2020,Paris Saint-Germain,Ligue_1,FRA,48000,452.6,220.6,48.8,82.7,36.0
+2021,Paris Saint-Germain,Ligue_1,FRA,48000,542.1,362.5,66.9,58.4,-14.3
+2022,Paris Saint-Germain,Ligue_1,FRA,48000,658.0,324.8,49.4,149.7,19.0
+2023,Paris Saint-Germain,Ligue_1,FRA,48000,732.6,317.8,43.4,134.0,97.7
+2024,Paris Saint-Germain,Ligue_1,FRA,48000,852.3,449.4,52.7,179.1,10.7
+2025,Paris Saint-Germain,Ligue_1,FRA,48000,879.1,476.3,54.2,222.4,-39.3
+2026,Paris Saint-Germain,Ligue_1,FRA,48000,840.6,489.3,58.2,71.7,69.5
+2010,Olympique Marseille,Ligue_1,FRA,67000,54.3,30.2,55.6,-6.9,17.4
+2011,Olympique Marseille,Ligue_1,FRA,67000,58.1,33.7,58.0,5.0,4.8
+2012,Olympique Marseille,Ligue_1,FRA,67000,64.0,30.7,48.0,8.2,9.0
+2013,Olympique Marseille,Ligue_1,FRA,67000,68.9,41.8,60.6,7.6,2.3
+2014,Olympique Marseille,Ligue_1,FRA,67000,66.1,34.6,52.4,-5.4,20.4
+2015,Olympique Marseille,Ligue_1,FRA,67000,71.1,38.8,54.5,-3.0,17.5
+2016,Olympique Marseille,Ligue_1,FRA,67000,73.5,35.1,47.8,1.2,18.8
+2017,Olympique Marseille,Ligue_1,FRA,67000,79.1,38.1,48.2,7.8,13.4
+2018,Olympique Marseille,Ligue_1,FRA,67000,78.1,43.4,55.6,8.1,7.1
+2019,Olympique Marseille,Ligue_1,FRA,67000,90.6,52.1,57.5,4.6,11.2
+2020,Olympique Marseille,Ligue_1,FRA,67000,80.9,41.4,51.1,10.3,9.1
+2021,Olympique Marseille,Ligue_1,FRA,67000,92.9,48.8,52.5,7.9,13.0
+2022,Olympique Marseille,Ligue_1,FRA,67000,104.2,54.1,51.9,6.4,17.7
+2023,Olympique Marseille,Ligue_1,FRA,67000,111.4,67.4,60.5,-1.8,18.0
+2024,Olympique Marseille,Ligue_1,FRA,67000,126.3,83.8,66.3,-4.7,15.6
+2025,Olympique Marseille,Ligue_1,FRA,67000,124.3,61.0,49.1,-6.5,38.7
+2026,Olympique Marseille,Ligue_1,FRA,67000,125.6,62.4,49.7,2.0,29.8
+2010,Olympique Lyonnais,Ligue_1,FRA,59000,55.8,27.3,48.9,4.6,9.9
+2011,Olympique Lyonnais,Ligue_1,FRA,59000,57.4,39.6,69.0,4.5,-1.1
+2012,Olympique Lyonnais,Ligue_1,FRA,59000,61.4,32.4,52.7,-4.8,18.5
+2013,Olympique Lyonnais,Ligue_1,FRA,59000,62.5,39.7,63.5,-2.2,9.4
+2014,Olympique Lyonnais,Ligue_1,FRA,59000,68.6,33.1,48.3,-0.6,18.9
+2015,Olympique Lyonnais,Ligue_1,FRA,59000,68.7,42.8,62.3,8.8,-0.1
+2016,Olympique Lyonnais,Ligue_1,FRA,59000,74.2,31.8,42.8,-9.4,33.3
+2017,Olympique Lyonnais,Ligue_1,FRA,59000,78.6,48.0,61.1,-10.9,21.9
+2018,Olympique Lyonnais,Ligue_1,FRA,59000,76.3,43.1,56.5,6.5,7.6
+2019,Olympique Lyonnais,Ligue_1,FRA,59000,82.5,45.3,55.0,1.7,14.8
+2020,Olympique Lyonnais,Ligue_1,FRA,59000,78.6,36.0,45.7,11.0,12.0
+2021,Olympique Lyonnais,Ligue_1,FRA,59000,91.1,49.4,54.3,-12.1,30.9
+2022,Olympique Lyonnais,Ligue_1,FRA,59000,105.3,57.7,54.8,5.5,15.8
+2023,Olympique Lyonnais,Ligue_1,FRA,59000,112.3,59.5,53.0,-8.7,33.5
+2024,Olympique Lyonnais,Ligue_1,FRA,59000,113.3,65.0,57.4,-0.0,20.0
+2025,Olympique Lyonnais,Ligue_1,FRA,59000,124.1,74.2,59.8,-18.6,37.4
+2026,Olympique Lyonnais,Ligue_1,FRA,59000,120.6,68.0,56.4,9.0,13.4
+2010,AS Monaco,Ligue_1,FRA,18000,35.2,18.5,52.7,-5.2,13.1
+2011,AS Monaco,Ligue_1,FRA,18000,50.4,28.9,57.4,-2.1,11.0
+2012,AS Monaco,Ligue_1,FRA,18000,59.1,34.8,58.8,5.3,4.3
+2013,AS Monaco,Ligue_1,FRA,18000,78.5,39.7,50.6,4.6,14.5
+2014,AS Monaco,Ligue_1,FRA,18000,93.4,58.6,62.8,-13.6,25.0
+2015,AS Monaco,Ligue_1,FRA,18000,104.3,61.3,58.7,7.2,9.7
+2016,AS Monaco,Ligue_1,FRA,18000,98.6,56.3,57.1,-1.8,19.5
+2017,AS Monaco,Ligue_1,FRA,18000,99.3,55.7,56.1,2.7,16.0
+2018,AS Monaco,Ligue_1,FRA,18000,100.4,50.7,50.5,5.1,19.5
+2019,AS Monaco,Ligue_1,FRA,18000,93.0,55.3,59.4,-9.8,24.3
+2020,AS Monaco,Ligue_1,FRA,18000,73.6,33.0,44.8,-5.7,27.9
+2021,AS Monaco,Ligue_1,FRA,18000,104.5,55.5,53.1,5.8,17.2
+2022,AS Monaco,Ligue_1,FRA,18000,142.2,79.9,56.2,9.6,17.2
+2023,AS Monaco,Ligue_1,FRA,18000,163.3,93.7,57.4,-4.0,32.8
+2024,AS Monaco,Ligue_1,FRA,18000,174.1,104.9,60.2,18.0,7.7
+2025,AS Monaco,Ligue_1,FRA,18000,179.8,104.8,58.3,3.1,27.0
+2026,AS Monaco,Ligue_1,FRA,18000,208.7,125.4,60.1,-24.6,55.7
+2010,Lille,Ligue_1,FRA,50000,56.3,30.4,54.0,-20.6,32.5
+2011,Lille,Ligue_1,FRA,50000,58.3,32.8,56.2,-7.1,18.0
+2012,Lille,Ligue_1,FRA,50000,61.0,31.7,51.9,-15.8,29.9
+2013,Lille,Ligue_1,FRA,50000,63.0,28.9,45.9,-9.8,28.1
+2014,Lille,Ligue_1,FRA,50000,71.8,44.6,62.1,-9.2,18.5
+2015,Lille,Ligue_1,FRA,50000,72.6,45.1,62.1,-21.7,31.0
+2016,Lille,Ligue_1,FRA,50000,74.2,33.4,45.0,-20.4,42.7
+2017,Lille,Ligue_1,FRA,50000,74.6,41.8,56.0,-24.9,39.1
+2018,Lille,Ligue_1,FRA,50000,81.3,48.9,60.1,-17.6,29.7
+2019,Lille,Ligue_1,FRA,50000,83.8,37.0,44.2,-5.4,31.2
+2020,Lille,Ligue_1,FRA,50000,78.0,36.8,47.2,-15.2,36.8
+2021,Lille,Ligue_1,FRA,50000,90.8,45.0,49.6,-33.9,57.0
+2022,Lille,Ligue_1,FRA,50000,110.2,63.9,58.0,-6.2,24.9
+2023,Lille,Ligue_1,FRA,50000,115.5,56.8,49.2,-6.3,36.1
+2024,Lille,Ligue_1,FRA,50000,120.5,63.5,52.7,-44.2,71.2
+2025,Lille,Ligue_1,FRA,50000,121.1,69.7,57.5,-9.4,30.5
+2026,Lille,Ligue_1,FRA,50000,117.3,71.5,61.0,-31.1,47.6
+2010,Stade Rennais,Ligue_1,FRA,30000,55.0,33.1,60.1,5.7,2.5
+2011,Stade Rennais,Ligue_1,FRA,30000,56.5,28.0,49.5,-3.9,18.3
+2012,Stade Rennais,Ligue_1,FRA,30000,58.5,35.5,60.6,-0.2,8.6
+2013,Stade Rennais,Ligue_1,FRA,30000,62.7,32.7,52.1,-4.4,18.8
+2014,Stade Rennais,Ligue_1,FRA,30000,69.8,40.9,58.7,5.9,5.5
+2015,Stade Rennais,Ligue_1,FRA,30000,70.1,35.6,50.7,-4.9,22.0
+2016,Stade Rennais,Ligue_1,FRA,30000,71.1,44.8,63.0,2.6,5.9
+2017,Stade Rennais,Ligue_1,FRA,30000,74.4,38.4,51.6,-2.6,20.0
+2018,Stade Rennais,Ligue_1,FRA,30000,77.0,42.7,55.5,-4.5,19.5
+2019,Stade Rennais,Ligue_1,FRA,30000,81.2,43.1,53.1,10.0,7.8
+2020,Stade Rennais,Ligue_1,FRA,30000,77.6,39.1,50.5,10.0,9.1
+2021,Stade Rennais,Ligue_1,FRA,30000,97.7,54.0,55.3,6.3,13.0
+2022,Stade Rennais,Ligue_1,FRA,30000,101.1,52.3,51.7,-0.6,24.1
+2023,Stade Rennais,Ligue_1,FRA,30000,109.9,65.4,59.5,-14.9,31.9
+2024,Stade Rennais,Ligue_1,FRA,30000,119.0,61.9,52.1,-13.7,41.0
+2025,Stade Rennais,Ligue_1,FRA,30000,121.6,65.3,53.6,12.7,13.3
+2026,Stade Rennais,Ligue_1,FRA,30000,125.2,71.9,57.4,8.0,14.0
+2010,Benfica,Liga_Portugal,POR,65000,104.7,55.3,52.8,-20.4,43.6
+2011,Benfica,Liga_Portugal,POR,65000,111.2,59.5,53.5,-6.8,30.8
+2012,Benfica,Liga_Portugal,POR,65000,125.2,60.5,48.3,-34.8,68.2
+2013,Benfica,Liga_Portugal,POR,65000,119.0,66.8,56.1,-16.3,38.8
+2014,Benfica,Liga_Portugal,POR,65000,135.0,75.4,55.9,-45.0,70.9
+2015,Benfica,Liga_Portugal,POR,65000,140.1,75.3,53.7,-36.1,65.9
+2016,Benfica,Liga_Portugal,POR,65000,138.4,77.5,56.0,-23.6,49.9
+2017,Benfica,Liga_Portugal,POR,65000,135.9,65.5,48.2,-44.0,80.4
+2018,Benfica,Liga_Portugal,POR,65000,141.1,79.2,56.2,-36.8,63.3
+2019,Benfica,Liga_Portugal,POR,65000,138.8,79.0,57.0,-45.2,70.2
+2020,Benfica,Liga_Portugal,POR,65000,117.0,61.2,52.3,-46.0,72.5
+2021,Benfica,Liga_Portugal,POR,65000,128.4,66.4,51.7,-31.0,61.0
+2022,Benfica,Liga_Portugal,POR,65000,146.1,70.1,48.0,-57.8,97.3
+2023,Benfica,Liga_Portugal,POR,65000,169.5,83.8,49.4,-58.5,101.8
+2024,Benfica,Liga_Portugal,POR,65000,198.7,96.7,48.7,-78.0,130.3
+2025,Benfica,Liga_Portugal,POR,65000,209.1,114.9,54.9,-79.6,121.6
+2026,Benfica,Liga_Portugal,POR,65000,216.0,118.5,54.9,-17.7,61.2
+2010,Porto,Liga_Portugal,POR,50000,88.5,50.8,57.4,-20.0,35.6
+2011,Porto,Liga_Portugal,POR,50000,90.4,50.3,55.6,-20.5,38.0
+2012,Porto,Liga_Portugal,POR,50000,94.3,44.9,47.6,-13.9,39.8
+2013,Porto,Liga_Portugal,POR,50000,96.0,53.8,56.0,-22.6,40.8
+2014,Porto,Liga_Portugal,POR,50000,113.8,59.8,52.5,-17.7,43.3
+2015,Porto,Liga_Portugal,POR,50000,113.6,63.1,55.6,-13.6,35.7
+2016,Porto,Liga_Portugal,POR,50000,110.5,66.3,60.0,-31.6,48.2
+2017,Porto,Liga_Portugal,POR,50000,110.0,65.6,59.6,-18.9,35.8
+2018,Porto,Liga_Portugal,POR,50000,112.3,57.5,51.2,-19.8,46.6
+2019,Porto,Liga_Portugal,POR,50000,100.0,58.3,58.3,-12.5,29.2
+2020,Porto,Liga_Portugal,POR,50000,85.3,42.1,49.4,-5.4,27.3
+2021,Porto,Liga_Portugal,POR,50000,102.0,62.0,60.8,-13.6,28.1
+2022,Porto,Liga_Portugal,POR,50000,131.4,76.1,57.9,-49.7,72.1
+2023,Porto,Liga_Portugal,POR,50000,144.4,75.1,52.0,-43.3,76.5
+2024,Porto,Liga_Portugal,POR,50000,167.6,106.6,63.6,-17.9,37.0
+2025,Porto,Liga_Portugal,POR,50000,184.6,98.7,53.5,-20.7,60.5
+2026,Porto,Liga_Portugal,POR,50000,195.6,107.3,54.8,-73.3,112.7
+2010,Sporting CP,Liga_Portugal,POR,50000,41.8,22.3,53.3,-3.7,12.7
+2011,Sporting CP,Liga_Portugal,POR,50000,41.7,22.4,53.7,-2.6,11.4
+2012,Sporting CP,Liga_Portugal,POR,50000,45.7,22.2,48.6,-8.3,20.4
+2013,Sporting CP,Liga_Portugal,POR,50000,48.8,21.6,44.2,-8.0,23.1
+2014,Sporting CP,Liga_Portugal,POR,50000,51.6,29.4,56.9,-6.2,15.6
+2015,Sporting CP,Liga_Portugal,POR,50000,53.5,32.2,60.1,-20.1,28.0
+2016,Sporting CP,Liga_Portugal,POR,50000,55.3,29.1,52.7,-8.9,21.2
+2017,Sporting CP,Liga_Portugal,POR,50000,58.6,32.8,56.0,-20.2,31.4
+2018,Sporting CP,Liga_Portugal,POR,50000,60.2,35.6,59.1,-19.2,28.8
+2019,Sporting CP,Liga_Portugal,POR,50000,66.5,39.5,59.4,-25.0,35.4
+2020,Sporting CP,Liga_Portugal,POR,50000,56.4,35.3,62.7,-18.0,24.9
+2021,Sporting CP,Liga_Portugal,POR,50000,65.5,33.7,51.4,-4.1,19.5
+2022,Sporting CP,Liga_Portugal,POR,50000,79.3,41.6,52.4,-20.7,38.6
+2023,Sporting CP,Liga_Portugal,POR,50000,82.4,42.0,51.0,-12.1,31.8
+2024,Sporting CP,Liga_Portugal,POR,50000,91.1,52.3,57.5,-18.8,34.8
+2025,Sporting CP,Liga_Portugal,POR,50000,93.6,53.7,57.4,-18.6,35.0
+2026,Sporting CP,Liga_Portugal,POR,50000,96.2,53.4,55.5,-34.9,53.6
+2010,Ajax,Eredivisie,NED,56000,92.1,53.2,57.8,-20.8,36.7
+2011,Ajax,Eredivisie,NED,56000,90.8,50.2,55.3,-20.5,38.4
+2012,Ajax,Eredivisie,NED,56000,96.6,63.8,66.0,-23.9,32.6
+2013,Ajax,Eredivisie,NED,56000,100.3,60.5,60.3,-14.0,28.7
+2014,Ajax,Eredivisie,NED,56000,109.4,58.1,53.1,-42.5,66.5
+2015,Ajax,Eredivisie,NED,56000,102.5,54.6,53.2,-24.0,46.3
+2016,Ajax,Eredivisie,NED,56000,115.9,65.6,56.6,-29.5,50.8
+2017,Ajax,Eredivisie,NED,56000,120.7,64.4,53.3,-10.9,37.0
+2018,Ajax,Eredivisie,NED,56000,130.5,67.1,51.4,-9.2,40.0
+2019,Ajax,Eredivisie,NED,56000,133.2,79.5,59.7,-9.8,30.2
+2020,Ajax,Eredivisie,NED,56000,123.7,67.7,54.7,-34.9,60.0
+2021,Ajax,Eredivisie,NED,56000,140.4,69.7,49.6,-51.0,86.6
+2022,Ajax,Eredivisie,NED,56000,171.1,96.9,56.7,-43.7,75.1
+2023,Ajax,Eredivisie,NED,56000,187.8,96.3,51.3,-19.7,64.2
+2024,Ajax,Eredivisie,NED,56000,194.4,119.6,61.5,-42.5,68.8
+2025,Ajax,Eredivisie,NED,56000,211.3,129.4,61.2,-19.0,48.1
+2026,Ajax,Eredivisie,NED,56000,204.3,104.8,51.3,-32.7,81.1
+2010,PSV Eindhoven,Eredivisie,NED,36000,34.1,16.9,49.6,0.9,7.8
+2011,PSV Eindhoven,Eredivisie,NED,36000,35.6,20.1,56.7,2.6,3.9
+2012,PSV Eindhoven,Eredivisie,NED,36000,39.3,22.6,57.5,5.4,1.4
+2013,PSV Eindhoven,Eredivisie,NED,36000,40.2,26.4,65.6,-1.9,5.6
+2014,PSV Eindhoven,Eredivisie,NED,36000,40.2,20.1,50.0,-3.0,13.0
+2015,PSV Eindhoven,Eredivisie,NED,36000,44.4,24.1,54.4,2.4,6.8
+2016,PSV Eindhoven,Eredivisie,NED,36000,49.1,28.4,57.7,3.0,5.5
+2017,PSV Eindhoven,Eredivisie,NED,36000,46.8,23.4,50.0,3.4,8.3
+2018,PSV Eindhoven,Eredivisie,NED,36000,50.3,23.0,45.7,3.6,11.1
+2019,PSV Eindhoven,Eredivisie,NED,36000,54.2,29.2,53.9,2.5,8.9
+2020,PSV Eindhoven,Eredivisie,NED,36000,48.8,26.4,54.1,1.8,8.4
+2021,PSV Eindhoven,Eredivisie,NED,36000,58.6,35.4,60.4,-0.4,8.9
+2022,PSV Eindhoven,Eredivisie,NED,36000,65.8,37.6,57.2,8.7,3.0
+2023,PSV Eindhoven,Eredivisie,NED,36000,69.9,41.2,59.0,-10.2,21.4
+2024,PSV Eindhoven,Eredivisie,NED,36000,78.0,49.8,63.9,-1.5,10.1
+2025,PSV Eindhoven,Eredivisie,NED,36000,77.5,42.7,55.1,-0.2,15.6
+2026,PSV Eindhoven,Eredivisie,NED,36000,78.5,37.3,47.6,-3.0,24.6
+2010,Feyenoord,Eredivisie,NED,51000,34.2,19.0,55.4,-3.5,10.2
+2011,Feyenoord,Eredivisie,NED,51000,35.7,20.0,56.2,-0.6,7.3
+2012,Feyenoord,Eredivisie,NED,51000,39.4,26.0,65.9,-1.8,5.3
+2013,Feyenoord,Eredivisie,NED,51000,41.2,20.5,49.6,2.0,8.5
+2014,Feyenoord,Eredivisie,NED,51000,44.6,22.5,50.4,5.4,5.5
+2015,Feyenoord,Eredivisie,NED,51000,44.3,24.2,54.5,4.0,5.1
+2016,Feyenoord,Eredivisie,NED,51000,45.8,28.0,61.1,-2.9,9.2
+2017,Feyenoord,Eredivisie,NED,51000,46.2,27.6,59.7,2.8,4.3
+2018,Feyenoord,Eredivisie,NED,51000,49.1,23.1,47.1,6.7,7.0
+2019,Feyenoord,Eredivisie,NED,51000,54.1,32.9,60.8,-7.3,14.9
+2020,Feyenoord,Eredivisie,NED,51000,49.5,28.9,58.4,0.2,8.0
+2021,Feyenoord,Eredivisie,NED,51000,59.3,29.1,49.1,-0.4,15.8
+2022,Feyenoord,Eredivisie,NED,51000,67.2,40.6,60.4,-8.0,17.8
+2023,Feyenoord,Eredivisie,NED,51000,66.0,33.7,51.1,2.3,13.5
+2024,Feyenoord,Eredivisie,NED,51000,74.6,42.8,57.4,4.8,8.4
+2025,Feyenoord,Eredivisie,NED,51000,78.9,42.6,53.9,0.1,16.5
+2026,Feyenoord,Eredivisie,NED,51000,78.9,45.0,57.1,10.3,3.9
+2010,Galatasaray,Super_Lig,TUR,53000,101.9,60.7,59.5,7.3,8.5
+2011,Galatasaray,Super_Lig,TUR,53000,102.0,49.6,48.6,9.2,17.7
+2012,Galatasaray,Super_Lig,TUR,53000,121.6,54.8,45.1,-2.9,39.3
+2013,Galatasaray,Super_Lig,TUR,53000,135.5,82.0,60.5,14.7,4.9
+2014,Galatasaray,Super_Lig,TUR,53000,149.2,84.8,56.8,-16.5,43.6
+2015,Galatasaray,Super_Lig,TUR,53000,170.2,101.9,59.9,22.0,3.8
+2016,Galatasaray,Super_Lig,TUR,53000,149.2,90.6,60.7,-10.2,31.5
+2017,Galatasaray,Super_Lig,TUR,53000,133.7,81.3,60.8,17.4,1.6
+2018,Galatasaray,Super_Lig,TUR,53000,133.5,68.4,51.2,16.5,15.2
+2019,Galatasaray,Super_Lig,TUR,53000,110.8,58.2,52.5,-11.8,36.6
+2020,Galatasaray,Super_Lig,TUR,53000,78.2,41.3,52.8,1.7,15.6
+2021,Galatasaray,Super_Lig,TUR,53000,95.2,61.6,64.7,-0.0,9.8
+2022,Galatasaray,Super_Lig,TUR,53000,114.3,64.4,56.3,-11.3,32.7
+2023,Galatasaray,Super_Lig,TUR,53000,146.2,90.4,61.8,-16.9,36.2
+2024,Galatasaray,Super_Lig,TUR,53000,182.7,103.8,56.8,13.0,20.2
+2025,Galatasaray,Super_Lig,TUR,53000,202.4,134.0,66.2,-1.3,19.2
+2026,Galatasaray,Super_Lig,TUR,53000,222.8,136.5,61.3,13.0,17.5
+2010,Fenerbahce,Super_Lig,TUR,50000,42.0,18.1,43.1,4.4,9.0
+2011,Fenerbahce,Super_Lig,TUR,50000,41.4,25.8,62.3,4.5,0.7
+2012,Fenerbahce,Super_Lig,TUR,50000,47.9,24.2,50.5,3.8,8.0
+2013,Fenerbahce,Super_Lig,TUR,50000,49.1,26.9,54.8,6.7,3.2
+2014,Fenerbahce,Super_Lig,TUR,50000,51.1,35.2,68.8,7.0,-3.8
+2015,Fenerbahce,Super_Lig,TUR,50000,55.0,32.5,59.2,-1.5,10.2
+2016,Fenerbahce,Super_Lig,TUR,50000,55.2,24.7,44.7,8.1,8.6
+2017,Fenerbahce,Super_Lig,TUR,50000,59.2,29.7,50.2,4.3,10.4
+2018,Fenerbahce,Super_Lig,TUR,50000,58.8,36.7,62.5,-1.0,8.3
+2019,Fenerbahce,Super_Lig,TUR,50000,66.3,38.5,58.1,-5.0,16.2
+2020,Fenerbahce,Super_Lig,TUR,50000,59.9,29.4,49.1,4.5,11.0
+2021,Fenerbahce,Super_Lig,TUR,50000,69.3,39.2,56.6,3.5,9.2
+2022,Fenerbahce,Super_Lig,TUR,50000,83.9,52.7,62.8,-11.9,22.1
+2023,Fenerbahce,Super_Lig,TUR,50000,84.1,48.3,57.4,0.3,14.5
+2024,Fenerbahce,Super_Lig,TUR,50000,94.1,57.0,60.6,-0.8,14.3
+2025,Fenerbahce,Super_Lig,TUR,50000,90.6,53.4,58.9,10.2,4.3
+2026,Fenerbahce,Super_Lig,TUR,50000,95.3,51.9,54.4,11.5,8.1
+2010,Inter Miami,MLS,USA,21000,29.7,12.7,42.8,3.8,5.7
+2011,Inter Miami,MLS,USA,21000,29.4,16.2,55.2,-2.3,8.1
+2012,Inter Miami,MLS,USA,21000,29.8,17.5,59.0,-0.8,5.5
+2013,Inter Miami,MLS,USA,21000,29.5,17.3,58.4,-4.0,8.9
+2014,Inter Miami,MLS,USA,21000,28.6,16.7,58.3,0.5,4.2
+2015,Inter Miami,MLS,USA,21000,30.0,13.5,45.2,3.1,5.9
+2016,Inter Miami,MLS,USA,21000,28.5,16.1,56.5,0.2,5.1
+2017,Inter Miami,MLS,USA,21000,29.0,15.3,52.8,0.8,5.6
+2018,Inter Miami,MLS,USA,21000,29.4,17.1,57.9,-1.4,6.4
+2019,Inter Miami,MLS,USA,21000,33.5,18.9,56.4,-2.9,9.1
+2020,Inter Miami,MLS,USA,21000,29.0,13.6,46.8,2.0,6.2
+2021,Inter Miami,MLS,USA,21000,38.7,16.7,43.1,-2.1,14.4
+2022,Inter Miami,MLS,USA,21000,48.7,30.6,62.9,4.1,1.8
+2023,Inter Miami,MLS,USA,21000,117.3,71.0,60.5,-3.3,20.2
+2024,Inter Miami,MLS,USA,21000,190.7,98.9,51.8,3.1,41.1
+2025,Inter Miami,MLS,USA,21000,202.8,92.7,45.7,-1.2,60.6
+2026,Inter Miami,MLS,USA,21000,251.4,132.8,52.8,26.9,28.8
+2010,LAFC,MLS,USA,22000,36.2,23.7,65.5,-4.8,8.3
+2011,LAFC,MLS,USA,22000,36.9,23.6,64.1,4.4,-0.3
+2012,LAFC,MLS,USA,22000,40.0,19.9,49.9,1.4,8.6
+2013,LAFC,MLS,USA,22000,40.3,20.2,50.2,4.7,5.3
+2014,LAFC,MLS,USA,22000,40.4,20.2,50.1,1.2,8.9
+2015,LAFC,MLS,USA,22000,45.7,24.8,54.4,-5.3,14.7
+2016,LAFC,MLS,USA,22000,47.0,23.6,50.1,4.1,7.6
+2017,LAFC,MLS,USA,22000,49.3,33.5,68.0,6.9,-3.5
+2018,LAFC,MLS,USA,22000,49.3,29.0,58.8,-4.9,12.8
+2019,LAFC,MLS,USA,22000,53.3,28.2,53.0,-7.0,18.8
+2020,LAFC,MLS,USA,22000,48.4,25.6,52.9,-2.1,12.7
+2021,LAFC,MLS,USA,22000,59.2,30.8,52.0,6.8,6.9
+2022,LAFC,MLS,USA,22000,62.9,30.7,48.7,-6.4,22.9
+2023,LAFC,MLS,USA,22000,70.5,34.6,49.1,-1.0,19.3
+2024,LAFC,MLS,USA,22000,73.3,38.7,52.8,-1.4,17.7
+2025,LAFC,MLS,USA,22000,79.1,43.5,55.1,-9.8,25.5
+2026,LAFC,MLS,USA,22000,79.0,44.7,56.6,-9.5,24.0
+2010,Al-Nassr,Saudi_Pro_League,SAU,25000,14.6,8.1,55.2,-0.5,3.4
+2011,Al-Nassr,Saudi_Pro_League,SAU,25000,17.1,10.1,58.8,2.5,0.3
+2012,Al-Nassr,Saudi_Pro_League,SAU,25000,20.1,10.2,50.6,-1.7,6.6
+2013,Al-Nassr,Saudi_Pro_League,SAU,25000,21.0,11.4,54.5,-0.1,4.4
+2014,Al-Nassr,Saudi_Pro_League,SAU,25000,23.1,13.7,59.2,1.1,2.5
+2015,Al-Nassr,Saudi_Pro_League,SAU,25000,25.0,14.8,59.1,2.5,1.5
+2016,Al-Nassr,Saudi_Pro_League,SAU,25000,27.6,14.1,51.2,-0.4,6.9
+2017,Al-Nassr,Saudi_Pro_League,SAU,25000,31.0,16.9,54.4,-4.2,10.6
+2018,Al-Nassr,Saudi_Pro_League,SAU,25000,30.5,18.7,61.2,4.3,-0.1
+2019,Al-Nassr,Saudi_Pro_League,SAU,25000,33.2,20.0,60.0,4.7,0.3
+2020,Al-Nassr,Saudi_Pro_League,SAU,25000,30.9,18.4,59.6,-2.3,7.0
+2021,Al-Nassr,Saudi_Pro_League,SAU,25000,37.2,22.1,59.5,1.2,4.6
+2022,Al-Nassr,Saudi_Pro_League,SAU,25000,44.2,28.1,63.5,-2.1,7.1
+2023,Al-Nassr,Saudi_Pro_League,SAU,25000,89.6,49.9,55.6,112.1,-94.8
+2024,Al-Nassr,Saudi_Pro_League,SAU,25000,135.7,78.4,57.8,162.4,-139.0
+2025,Al-Nassr,Saudi_Pro_League,SAU,25000,163.5,88.2,53.9,94.3,-59.9
+2026,Al-Nassr,Saudi_Pro_League,SAU,25000,183.7,100.4,54.6,153.3,-115.9
+2010,Al-Hilal,Saudi_Pro_League,SAU,25000,24.6,14.9,60.7,0.7,2.8
+2011,Al-Hilal,Saudi_Pro_League,SAU,25000,27.2,15.2,55.7,-1.2,6.5
+2012,Al-Hilal,Saudi_Pro_League,SAU,25000,29.9,15.2,50.7,3.7,3.6
+2013,Al-Hilal,Saudi_Pro_League,SAU,25000,31.6,18.4,58.2,-4.3,9.6
+2014,Al-Hilal,Saudi_Pro_League,SAU,25000,33.4,17.8,53.4,0.4,6.8
+2015,Al-Hilal,Saudi_Pro_League,SAU,25000,35.0,18.4,52.6,3.7,4.1
+2016,Al-Hilal,Saudi_Pro_League,SAU,25000,40.4,18.7,46.3,-2.0,13.6
+2017,Al-Hilal,Saudi_Pro_League,SAU,25000,39.0,21.2,54.5,-3.7,11.7
+2018,Al-Hilal,Saudi_Pro_League,SAU,25000,41.3,23.5,56.9,2.8,4.6
+2019,Al-Hilal,Saudi_Pro_League,SAU,25000,44.1,26.1,59.2,-4.8,11.8
+2020,Al-Hilal,Saudi_Pro_League,SAU,25000,44.4,25.2,56.8,-5.0,13.1
+2021,Al-Hilal,Saudi_Pro_League,SAU,25000,57.4,36.4,63.4,-7.4,14.1
+2022,Al-Hilal,Saudi_Pro_League,SAU,25000,68.1,38.1,56.0,-1.2,14.2
+2023,Al-Hilal,Saudi_Pro_League,SAU,25000,104.2,59.7,57.3,60.7,-42.3
+2024,Al-Hilal,Saudi_Pro_League,SAU,25000,156.8,87.7,55.9,160.1,-130.1
+2025,Al-Hilal,Saudi_Pro_League,SAU,25000,170.8,85.7,50.2,225.9,-183.5
+2026,Al-Hilal,Saudi_Pro_League,SAU,25000,194.1,116.2,59.8,208.7,-179.2
+2010,Al-Ittihad,Saudi_Pro_League,SAU,60000,28.4,17.0,60.0,-3.3,7.5
+2011,Al-Ittihad,Saudi_Pro_League,SAU,60000,30.8,17.4,56.5,-1.5,7.2
+2012,Al-Ittihad,Saudi_Pro_League,SAU,60000,30.2,19.9,65.8,0.7,2.1
+2013,Al-Ittihad,Saudi_Pro_League,SAU,60000,33.2,15.6,47.0,0.5,8.8
+2014,Al-Ittihad,Saudi_Pro_League,SAU,60000,35.3,19.9,56.4,-0.7,7.2
+2015,Al-Ittihad,Saudi_Pro_League,SAU,60000,36.6,19.1,52.3,-3.7,12.1
+2016,Al-Ittihad,Saudi_Pro_League,SAU,60000,36.9,20.7,56.0,2.8,4.2
+2017,Al-Ittihad,Saudi_Pro_League,SAU,60000,37.5,18.8,50.0,-4.4,13.8
+2018,Al-Ittihad,Saudi_Pro_League,SAU,60000,41.0,19.8,48.3,0.4,10.5
+2019,Al-Ittihad,Saudi_Pro_League,SAU,60000,44.4,23.1,52.0,1.4,8.9
+2020,Al-Ittihad,Saudi_Pro_League,SAU,60000,37.5,19.4,51.6,-0.0,8.8
+2021,Al-Ittihad,Saudi_Pro_League,SAU,60000,47.3,24.2,51.1,-3.5,14.8
+2022,Al-Ittihad,Saudi_Pro_League,SAU,60000,52.2,27.0,51.6,-5.5,17.8
+2023,Al-Ittihad,Saudi_Pro_League,SAU,60000,57.0,29.8,52.2,70.7,-57.7
+2024,Al-Ittihad,Saudi_Pro_League,SAU,60000,62.7,31.9,50.9,63.4,-48.3
+2025,Al-Ittihad,Saudi_Pro_League,SAU,60000,60.2,32.9,54.7,89.5,-77.3
+2026,Al-Ittihad,Saudi_Pro_League,SAU,60000,66.4,35.4,53.4,91.0,-76.6
